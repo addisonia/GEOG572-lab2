@@ -1,0 +1,5915 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 1, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.4922, 38.7775
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Abbeyville", 
+        "Other_names" : null, 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.7775, 
+        "Longitude_original" : 106.4922, 
+        "Longitude" : -106.4922, 
+        "Elevation_Feet" : -32735059200000, 
+        "Elevation_Meters" : 3027, 
+        "Established" : 1882, 
+        "Abandoned" : 1884, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Few remains.", 
+        "FID" : 2, 
+        "FID2" : 1
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.9869, 38.4503
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Aberdeen", 
+        "Other_names" : null, 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.4503, 
+        "Longitude_original" : 106.9869, 
+        "Longitude" : -106.9869, 
+        "Elevation_Feet" : -34444483200000, 
+        "Elevation_Meters" : 2401, 
+        "Established" : 1889, 
+        "Abandoned" : 1912, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "quarry", 
+        "Industry_secondary" : "granite", 
+        "Status" : "Little remains.", 
+        "FID" : 7, 
+        "FID2" : 2
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.1864, 37.0797
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Abeyta", 
+        "Other_names" : "San Isidro", 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.0797, 
+        "Longitude_original" : 104.1864, 
+        "Longitude" : -104.1864, 
+        "Elevation_Feet" : -39278044800000, 
+        "Elevation_Meters" : 1745, 
+        "Established" : 1914, 
+        "Abandoned" : 1914, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 8, 
+        "FID2" : 3
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -102.8696, 38.0606
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Able", 
+        "Other_names" : "Martin", 
+        "Current_county" : "Bent", 
+        "Lattitude" : 38.0606, 
+        "Longitude_original" : 102.8696, 
+        "Longitude" : -102.8696, 
+        "Elevation_Feet" : -37453017600000, 
+        "Elevation_Meters" : 1153, 
+        "Established" : 1924, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "station", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 11, 
+        "FID2" : 4
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 5, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.0908, 38.56
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Adelaide", 
+        "Other_names" : "Robinson", 
+        "Current_county" : "Fremont", 
+        "Lattitude" : 38.56, 
+        "Longitude_original" : 105.0908, 
+        "Longitude" : -105.0908, 
+        "Elevation_Feet" : -32206550400000, 
+        "Elevation_Meters" : 2118, 
+        "Established" : 1894, 
+        "Abandoned" : 1901, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "gold", 
+        "Status" : "Little remains.", 
+        "FID" : 12, 
+        "FID2" : 5
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.2581, 39.2472
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Adelaide", 
+        "Other_names" : "Park City, Finntown", 
+        "Current_county" : "Lake", 
+        "Lattitude" : 39.2472, 
+        "Longitude_original" : 106.2581, 
+        "Longitude" : -106.2581, 
+        "Elevation_Feet" : -35825068800000, 
+        "Elevation_Meters" : 3302, 
+        "Established" : 1876, 
+        "Abandoned" : 1879, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 15, 
+        "FID2" : 6
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 7, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -103.8866, 40.0083
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Adena", 
+        "Other_names" : null, 
+        "Current_county" : "Morgan", 
+        "Lattitude" : 40.0083, 
+        "Longitude_original" : 103.8866, 
+        "Longitude" : -103.8866, 
+        "Elevation_Feet" : -40321929600000, 
+        "Elevation_Meters" : 1430, 
+        "Established" : 1910, 
+        "Abandoned" : 1949, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : "School and chapel remain.", 
+        "FID" : 19, 
+        "FID2" : 7
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.0395, 38.3694
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Alder", 
+        "Other_names" : "Round Hill", 
+        "Current_county" : "Saguache", 
+        "Lattitude" : 38.3694, 
+        "Longitude_original" : 106.0395, 
+        "Longitude" : -106.0395, 
+        "Elevation_Feet" : -44981827200000, 
+        "Elevation_Meters" : 2604, 
+        "Established" : 1881, 
+        "Abandoned" : 1927, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "mining", 
+        "Status" : "Little remains.", 
+        "FID" : 20, 
+        "FID2" : 8
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 9, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.6428, 39.8183
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Alice", 
+        "Other_names" : null, 
+        "Current_county" : "Clear Creek", 
+        "Lattitude" : 39.8183, 
+        "Longitude_original" : 105.6428, 
+        "Longitude" : -105.6428, 
+        "Elevation_Feet" : -59240246400000, 
+        "Elevation_Meters" : 3076, 
+        "Established" : 1898, 
+        "Abandoned" : 1938, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Summer cabins.", 
+        "FID" : 22, 
+        "FID2" : 9
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 10, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.277, 38.7111
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Alpine", 
+        "Other_names" : null, 
+        "Current_county" : "Chaffee", 
+        "Lattitude" : 38.7111, 
+        "Longitude_original" : 106.277, 
+        "Longitude" : -106.277, 
+        "Elevation_Feet" : -53657337600000, 
+        "Elevation_Meters" : 2825, 
+        "Established" : 1874, 
+        "Abandoned" : 1904, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Some residents remain.", 
+        "FID" : 25, 
+        "FID2" : 10
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 11, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.8528, 37.8864
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Alta", 
+        "Other_names" : null, 
+        "Current_county" : "San Miguel", 
+        "Lattitude" : 37.8864, 
+        "Longitude_original" : 107.8528, 
+        "Longitude" : -107.8528, 
+        "Elevation_Feet" : -60247411200000, 
+        "Elevation_Meters" : 3371, 
+        "Established" : null, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 26, 
+        "FID2" : 11
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 12, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.1339, 38.7361
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Altman", 
+        "Other_names" : null, 
+        "Current_county" : "Teller", 
+        "Lattitude" : 38.7361, 
+        "Longitude_original" : 105.1339, 
+        "Longitude" : -105.1339, 
+        "Elevation_Feet" : -42262732800000, 
+        "Elevation_Meters" : 3240, 
+        "Established" : 1894, 
+        "Abandoned" : 1911, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 29, 
+        "FID2" : 12
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 13, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -102.3286, 38.0496
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Amache", 
+        "Other_names" : "Granada War Relocation Center", 
+        "Current_county" : "Prowers", 
+        "Lattitude" : 38.0496, 
+        "Longitude_original" : 102.3286, 
+        "Longitude" : -102.3286, 
+        "Elevation_Feet" : -43164835200000, 
+        "Elevation_Meters" : 1098, 
+        "Established" : 1942, 
+        "Abandoned" : 1945, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "internment", 
+        "Industry_secondary" : null, 
+        "Status" : "National Historic Site", 
+        "FID" : 30, 
+        "FID2" : 13
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 14, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.8823, 37.8647
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Ames", 
+        "Other_names" : "Ames Hydroelectrig Generating Plant", 
+        "Current_county" : "San Miguel", 
+        "Lattitude" : 37.8647, 
+        "Longitude_original" : 107.8823, 
+        "Longitude" : -107.8823, 
+        "Elevation_Feet" : -39396326400000, 
+        "Elevation_Meters" : 2658, 
+        "Established" : 1880, 
+        "Abandoned" : 1922, 
+        "Community_Type_primary" : "plant", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "hydroelectric", 
+        "Industry_secondary" : null, 
+        "Status" : "Power plant still in operation.", 
+        "FID" : 33, 
+        "FID2" : 14
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 15, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.8713, 37.3017
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Animas City", 
+        "Other_names" : "Animas", 
+        "Current_county" : "La Plata", 
+        "Lattitude" : 37.3017, 
+        "Longitude_original" : 107.8713, 
+        "Longitude" : -107.8713, 
+        "Elevation_Feet" : -44482176000000, 
+        "Elevation_Meters" : 1999, 
+        "Established" : 1877, 
+        "Abandoned" : 1900, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Animas City Park.", 
+        "FID" : 34, 
+        "FID2" : 15
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 16, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.5714, 37.9311
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Animas Forks", 
+        "Other_names" : null, 
+        "Current_county" : "San Juan", 
+        "Lattitude" : 37.9311, 
+        "Longitude_original" : 107.5714, 
+        "Longitude" : -107.5714, 
+        "Elevation_Feet" : -56302819200000, 
+        "Elevation_Meters" : 3409, 
+        "Established" : 1873, 
+        "Abandoned" : 1915, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 37, 
+        "FID2" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 17, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.9653, 38.9233
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Antero Junction", 
+        "Other_names" : null, 
+        "Current_county" : "Park", 
+        "Lattitude" : 38.9233, 
+        "Longitude_original" : 105.9653, 
+        "Longitude" : -105.9653, 
+        "Elevation_Feet" : -56245017600000, 
+        "Elevation_Meters" : 2800, 
+        "Established" : 1892, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 39, 
+        "FID2" : 17
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 18, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.5702, 39.8656
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Apex", 
+        "Other_names" : null, 
+        "Current_county" : "Gilpin", 
+        "Lattitude" : 39.8656, 
+        "Longitude_original" : 105.5702, 
+        "Longitude" : -105.5702, 
+        "Elevation_Feet" : -35448969600000, 
+        "Elevation_Meters" : 3001, 
+        "Established" : 1894, 
+        "Abandoned" : 1932, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 40, 
+        "FID2" : 18
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 19, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.1783, 39.775
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Arapahoe City", 
+        "Other_names" : "Arapahoe", 
+        "Current_county" : "Jefferson", 
+        "Lattitude" : 39.775, 
+        "Longitude_original" : 105.1783, 
+        "Longitude" : -105.1783, 
+        "Elevation_Feet" : -43695936000000, 
+        "Elevation_Meters" : 1702, 
+        "Established" : 1858, 
+        "Abandoned" : 1867, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Historical marker near Golden.", 
+        "FID" : 41, 
+        "FID2" : 19
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 20, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.607, 37.7928
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Arastra", 
+        "Other_names" : "Arrastra, Silver Lake", 
+        "Current_county" : "San Juan", 
+        "Lattitude" : 37.7928, 
+        "Longitude_original" : 107.607, 
+        "Longitude" : -107.607, 
+        "Elevation_Feet" : -54880243200000, 
+        "Elevation_Meters" : 3728, 
+        "Established" : 1890, 
+        "Abandoned" : 1919, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 42, 
+        "FID2" : 20
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 21, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.7998, 39.0536
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Ashcroft", 
+        "Other_names" : "Castle Forks City, Chloride", 
+        "Current_county" : "Pitkin", 
+        "Lattitude" : 39.0536, 
+        "Longitude_original" : 106.7998, 
+        "Longitude" : -106.7998, 
+        "Elevation_Feet" : -45704995200000, 
+        "Elevation_Meters" : 2902, 
+        "Established" : 1880, 
+        "Abandoned" : 1912, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "National Register Historic Place.", 
+        "FID" : 45, 
+        "FID2" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 22, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.0052, 39.7428
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Auraria", 
+        "Other_names" : null, 
+        "Current_county" : "Denver", 
+        "Lattitude" : 39.7428, 
+        "Longitude_original" : 105.0052, 
+        "Longitude" : -105.0052, 
+        "Elevation_Feet" : -55656115200000, 
+        "Elevation_Meters" : 1587, 
+        "Established" : 1858, 
+        "Abandoned" : 1859, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Historical park and Denver neighborhood", 
+        "FID" : 47, 
+        "FID2" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 23, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.2872, 38.21
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Autobees Plaza", 
+        "Other_names" : "Autobees", 
+        "Current_county" : "Pueblo", 
+        "Lattitude" : 38.21, 
+        "Longitude_original" : 104.2872, 
+        "Longitude" : -104.2872, 
+        "Elevation_Feet" : -46570204800000, 
+        "Elevation_Meters" : 1370, 
+        "Established" : 1853, 
+        "Abandoned" : 1882, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 48, 
+        "FID2" : 23
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 24, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.792, 40.2853
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Axial", 
+        "Other_names" : null, 
+        "Current_county" : "Moffat", 
+        "Lattitude" : 40.2853, 
+        "Longitude_original" : 107.792, 
+        "Longitude" : -107.792, 
+        "Elevation_Feet" : -47827238400000, 
+        "Elevation_Meters" : 1967, 
+        "Established" : 1883, 
+        "Abandoned" : 1958, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 49, 
+        "FID2" : 24
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 25, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.0142, 37.7272
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Badito", 
+        "Other_names" : "Little Orphan", 
+        "Current_county" : "Huerfano", 
+        "Lattitude" : 37.7272, 
+        "Longitude_original" : 105.0142, 
+        "Longitude" : -105.0142, 
+        "Elevation_Feet" : -48553084800000, 
+        "Elevation_Meters" : 1960, 
+        "Established" : 1865, 
+        "Abandoned" : 1910, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : "trail stop", 
+        "Industry_primary" : "rancing", 
+        "Industry_secondary" : null, 
+        "Status" : "Ruins remain.", 
+        "FID" : 51, 
+        "FID2" : 25
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 26, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.805, 39.6914
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Bakerville", 
+        "Other_names" : null, 
+        "Current_county" : "Clear Creek", 
+        "Lattitude" : 39.6914, 
+        "Longitude_original" : 105.805, 
+        "Longitude" : -105.805, 
+        "Elevation_Feet" : -37310889600000, 
+        "Elevation_Meters" : 2983, 
+        "Established" : 1865, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Foundations remain.", 
+        "FID" : 52, 
+        "FID2" : 26
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 27, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.0478, 38.7639
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Baldwin", 
+        "Other_names" : null, 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.7639, 
+        "Longitude_original" : 107.0478, 
+        "Longitude" : -107.0478, 
+        "Elevation_Feet" : -37944720000000, 
+        "Elevation_Meters" : 2672, 
+        "Established" : 1909, 
+        "Abandoned" : 1948, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 53, 
+        "FID2" : 27
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 28, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -103.4713, 40.4069
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Balzac", 
+        "Other_names" : null, 
+        "Current_county" : "Morgan", 
+        "Lattitude" : 40.4069, 
+        "Longitude_original" : 103.4713, 
+        "Longitude" : -103.4713, 
+        "Elevation_Feet" : -58845916800000, 
+        "Elevation_Meters" : 1251, 
+        "Established" : null, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 54, 
+        "FID2" : 28
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 29, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.3861, 39.5255
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Belden", 
+        "Other_names" : null, 
+        "Current_county" : "Eagle", 
+        "Lattitude" : 39.5255, 
+        "Longitude_original" : 106.3861, 
+        "Longitude" : -106.3861, 
+        "Elevation_Feet" : -41760403200000, 
+        "Elevation_Meters" : 2940, 
+        "Established" : null, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains", 
+        "FID" : 55, 
+        "FID2" : 29
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 30, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -103.4294, 38.0406
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Bent's Fort", 
+        "Other_names" : "Bent's Old Fort", 
+        "Current_county" : "Otero", 
+        "Lattitude" : 38.0406, 
+        "Longitude_original" : 103.4294, 
+        "Longitude" : -103.4294, 
+        "Elevation_Feet" : -62001590400000, 
+        "Elevation_Meters" : 1221, 
+        "Established" : 1833, 
+        "Abandoned" : 1849, 
+        "Community_Type_primary" : "post", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "trading", 
+        "Industry_secondary" : null, 
+        "Status" : "National Historic Site", 
+        "FID" : 56, 
+        "FID2" : 30
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 31, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.6183, 37.3084
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Berwind", 
+        "Other_names" : null, 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.3084, 
+        "Longitude_original" : 104.6183, 
+        "Longitude" : -104.6183, 
+        "Elevation_Feet" : -45081792000000, 
+        "Elevation_Meters" : 1994, 
+        "Established" : 1888, 
+        "Abandoned" : 1931, 
+        "Community_Type_primary" : "company town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Many structures remain.", 
+        "FID" : 57, 
+        "FID2" : 31
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 32, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.4066, 37.2181
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Beshoar", 
+        "Other_names" : null, 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.2181, 
+        "Longitude_original" : 104.4066, 
+        "Longitude" : -104.4066, 
+        "Elevation_Feet" : -33061305600000, 
+        "Elevation_Meters" : 1805, 
+        "Established" : 1901, 
+        "Abandoned" : 1903, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 58, 
+        "FID2" : 32
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 33, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.4569, 39.1356
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Bijou Basin", 
+        "Other_names" : null, 
+        "Current_county" : "El Paso", 
+        "Lattitude" : 39.1356, 
+        "Longitude_original" : 104.4569, 
+        "Longitude" : -104.4569, 
+        "Elevation_Feet" : -49594464000000, 
+        "Elevation_Meters" : 1950, 
+        "Established" : 1869, 
+        "Abandoned" : 1907, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : "station", 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : "railroad", 
+        "Status" : "Little remains", 
+        "FID" : 59, 
+        "FID2" : 33
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 34, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -103.9566, 37.6875
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Bloom", 
+        "Other_names" : "Iron Spring", 
+        "Current_county" : "Otero", 
+        "Lattitude" : 37.6875, 
+        "Longitude_original" : 103.9566, 
+        "Longitude" : -103.9566, 
+        "Elevation_Feet" : -36913795200000, 
+        "Elevation_Meters" : 1463, 
+        "Established" : 1899, 
+        "Abandoned" : 1938, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 60, 
+        "FID2" : 34
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 35, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -103.2127, 38.0417
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Boggsville", 
+        "Other_names" : null, 
+        "Current_county" : "Bent", 
+        "Lattitude" : 38.0417, 
+        "Longitude_original" : 103.2127, 
+        "Longitude" : -103.2127, 
+        "Elevation_Feet" : -33319036800000, 
+        "Elevation_Meters" : 1193, 
+        "Established" : 1866, 
+        "Abandoned" : 1975, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : "stop", 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : "stage", 
+        "Status" : "National Register Historic District.", 
+        "FID" : 61, 
+        "FID2" : 35
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 36, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.1422, 38.2947
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Bonanza", 
+        "Other_names" : "Bonanza City", 
+        "Current_county" : "Saguache", 
+        "Lattitude" : 38.2947, 
+        "Longitude_original" : 106.1422, 
+        "Longitude" : -106.1422, 
+        "Elevation_Feet" : -47030371200000, 
+        "Elevation_Meters" : 2889, 
+        "Established" : 1880, 
+        "Abandoned" : 1938, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Town government reactivated.", 
+        "FID" : 62, 
+        "FID2" : 36
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 37, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -102.3776, 37.2636
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Boston", 
+        "Other_names" : null, 
+        "Current_county" : "Baca", 
+        "Lattitude" : 37.2636, 
+        "Longitude_original" : 102.3776, 
+        "Longitude" : -102.3776, 
+        "Elevation_Feet" : -59887209600000, 
+        "Elevation_Meters" : 1241, 
+        "Established" : 1887, 
+        "Abandoned" : 1893, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching ", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 63, 
+        "FID2" : 37
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 38, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.6764, 37.4108
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Brodhead", 
+        "Other_names" : null, 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.4108, 
+        "Longitude_original" : 104.6764, 
+        "Longitude" : -104.6764, 
+        "Elevation_Feet" : -45776102400000, 
+        "Elevation_Meters" : 1987, 
+        "Established" : 1902, 
+        "Abandoned" : 1939, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains", 
+        "FID" : 66, 
+        "FID2" : 38
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 39, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -103.9777, 40.6214
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Buckingham", 
+        "Other_names" : null, 
+        "Current_county" : "Weld", 
+        "Lattitude" : 40.6214, 
+        "Longitude_original" : 103.9777, 
+        "Longitude" : -103.9777, 
+        "Elevation_Feet" : -32369587200000, 
+        "Elevation_Meters" : 1507, 
+        "Established" : 1888, 
+        "Abandoned" : 1966, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 67, 
+        "FID2" : 39
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 40, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.3269, 38.4764
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Buckskin Joe", 
+        "Other_names" : "Laurette, Buckskin", 
+        "Current_county" : "Park", 
+        "Lattitude" : 38.4764, 
+        "Longitude_original" : 105.3269, 
+        "Longitude" : -105.3269, 
+        "Elevation_Feet" : -38128752000000, 
+        "Elevation_Meters" : 3280, 
+        "Established" : 1861, 
+        "Abandoned" : 1873, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Buildings removed.", 
+        "FID" : 68, 
+        "FID2" : 40
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 41, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -102.966, 38.0478
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Caddoa", 
+        "Other_names" : null, 
+        "Current_county" : "Bent", 
+        "Lattitude" : 38.0478, 
+        "Longitude_original" : 102.966, 
+        "Longitude" : -102.966, 
+        "Elevation_Feet" : -34360329600000, 
+        "Elevation_Meters" : 1183, 
+        "Established" : 1881, 
+        "Abandoned" : 1958, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 71, 
+        "FID2" : 41
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 42, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.8872, 38.4361
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Calcite", 
+        "Other_names" : null, 
+        "Current_county" : "Fremont", 
+        "Lattitude" : 38.4361, 
+        "Longitude_original" : 105.8872, 
+        "Longitude" : -105.8872, 
+        "Elevation_Feet" : -43185830400000, 
+        "Elevation_Meters" : 2317, 
+        "Established" : 1903, 
+        "Abandoned" : 1930, 
+        "Community_Type_primary" : "company town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 72, 
+        "FID2" : 42
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 43, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.7526, 39.3892
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "California Ranch", 
+        "Other_names" : "Franktown", 
+        "Current_county" : "Douglas", 
+        "Lattitude" : 39.3892, 
+        "Longitude_original" : 104.7526, 
+        "Longitude" : -104.7526, 
+        "Elevation_Feet" : -57767731200000, 
+        "Elevation_Meters" : 1871, 
+        "Established" : 1861, 
+        "Abandoned" : 1874, 
+        "Community_Type_primary" : "stop", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "Stage stop.", 
+        "Industry_secondary" : null, 
+        "Status" : "Historic marker at Franktown.", 
+        "FID" : 73, 
+        "FID2" : 43
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 44, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.8597, 37.6928
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Calumet", 
+        "Other_names" : null, 
+        "Current_county" : "Huerfano", 
+        "Lattitude" : 37.6928, 
+        "Longitude_original" : 104.8597, 
+        "Longitude" : -104.8597, 
+        "Elevation_Feet" : -49815388800000, 
+        "Elevation_Meters" : 1948, 
+        "Established" : 1904, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 105, 
+        "FID2" : 44
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 45, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -108.3209, 39.1486
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Cameo", 
+        "Other_names" : null, 
+        "Current_county" : "Mesa", 
+        "Lattitude" : 39.1486, 
+        "Longitude_original" : 108.3209, 
+        "Longitude" : -108.3209, 
+        "Elevation_Feet" : -37324108800000, 
+        "Elevation_Meters" : 1459, 
+        "Established" : 1907, 
+        "Abandoned" : 1969, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 106, 
+        "FID2" : 45
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 46, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.3228, 39.443
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Camp Hale", 
+        "Other_names" : "US Army Mountain Training Camp", 
+        "Current_county" : "Eagle", 
+        "Lattitude" : 39.443, 
+        "Longitude_original" : 106.3228, 
+        "Longitude" : -106.3228, 
+        "Elevation_Feet" : -54635644800000, 
+        "Elevation_Meters" : 2816, 
+        "Established" : 1942, 
+        "Abandoned" : 1945, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "training", 
+        "Industry_secondary" : null, 
+        "Status" : "National Monument", 
+        "FID" : 107, 
+        "FID2" : 46
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 47, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.4667, 38.0072
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Capitol City", 
+        "Other_names" : "Galena City", 
+        "Current_county" : "Hinsdale", 
+        "Lattitude" : 38.0072, 
+        "Longitude_original" : 107.4667, 
+        "Longitude" : -107.4667, 
+        "Elevation_Feet" : -39709267200000, 
+        "Elevation_Meters" : 2960, 
+        "Established" : 1877, 
+        "Abandoned" : 1920, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 108, 
+        "FID2" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 48, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.3467, 39.743
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Carbonate", 
+        "Other_names" : null, 
+        "Current_county" : "Garfield", 
+        "Lattitude" : 39.743, 
+        "Longitude_original" : 107.3467, 
+        "Longitude" : -107.3467, 
+        "Elevation_Feet" : -32921856000000, 
+        "Elevation_Meters" : 3330, 
+        "Established" : 1879, 
+        "Abandoned" : 1886, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Town government reactivated.", 
+        "FID" : 109, 
+        "FID2" : 48
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 49, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.5786, 39.9808
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Caribou", 
+        "Other_names" : null, 
+        "Current_county" : "Boulder", 
+        "Lattitude" : 39.9808, 
+        "Longitude_original" : 105.5786, 
+        "Longitude" : -105.5786, 
+        "Elevation_Feet" : -31504377600000, 
+        "Elevation_Meters" : 3039, 
+        "Established" : 1871, 
+        "Abandoned" : 1917, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 110, 
+        "FID2" : 49
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 50, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -108.4733, 39.1944
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Carpenter", 
+        "Other_names" : null, 
+        "Current_county" : "Mesa", 
+        "Lattitude" : 39.1944, 
+        "Longitude_original" : 108.4733, 
+        "Longitude" : -108.4733, 
+        "Elevation_Feet" : -36658742400000, 
+        "Elevation_Meters" : 1770, 
+        "Established" : 1890, 
+        "Abandoned" : 1925, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 111, 
+        "FID2" : 50
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 51, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.3623, 37.8691
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Carson", 
+        "Other_names" : null, 
+        "Current_county" : "Hinsdale", 
+        "Lattitude" : 37.8691, 
+        "Longitude_original" : 107.3623, 
+        "Longitude" : -107.3623, 
+        "Elevation_Feet" : -44027193600000, 
+        "Elevation_Meters" : 3528, 
+        "Established" : 1889, 
+        "Abandoned" : 1903, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Many structures remain.", 
+        "FID" : 113, 
+        "FID2" : 51
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 52, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.2005, 38.3731
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Chandler", 
+        "Other_names" : null, 
+        "Current_county" : "Fremont", 
+        "Lattitude" : 38.3731, 
+        "Longitude_original" : 105.2005, 
+        "Longitude" : -105.2005, 
+        "Elevation_Feet" : -38867817600000, 
+        "Elevation_Meters" : 1749, 
+        "Established" : 1890, 
+        "Abandoned" : 1942, 
+        "Community_Type_primary" : "company town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 114, 
+        "FID2" : 52
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 53, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.7253, 37.8736
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Chattanooga", 
+        "Other_names" : null, 
+        "Current_county" : "San Juan", 
+        "Lattitude" : 37.8736, 
+        "Longitude_original" : 107.7253, 
+        "Longitude" : -107.7253, 
+        "Elevation_Feet" : -53844134400000, 
+        "Elevation_Meters" : 3128, 
+        "Established" : 1883, 
+        "Abandoned" : 1894, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 115, 
+        "FID2" : 53
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 54, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -102.5435, 38.4364
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Chivington", 
+        "Other_names" : null, 
+        "Current_county" : "Kiowa", 
+        "Lattitude" : 38.4364, 
+        "Longitude_original" : 102.5435, 
+        "Longitude" : -102.5435, 
+        "Elevation_Feet" : -34044796800000, 
+        "Elevation_Meters" : 1186, 
+        "Established" : 1887, 
+        "Abandoned" : 1991, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : null, 
+        "Status" : "Many structures remain.", 
+        "FID" : 117, 
+        "FID2" : 54
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 55, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -102.626, 40.395
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Clarkville", 
+        "Other_names" : null, 
+        "Current_county" : "Yuma", 
+        "Lattitude" : 40.395, 
+        "Longitude_original" : 102.626, 
+        "Longitude" : -102.626, 
+        "Elevation_Feet" : -61654435200000, 
+        "Elevation_Meters" : 1224, 
+        "Established" : 1933, 
+        "Abandoned" : 1954, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 118, 
+        "FID2" : 55
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 56, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.1836, 39.3689
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Climax", 
+        "Other_names" : null, 
+        "Current_county" : "Lake", 
+        "Lattitude" : 39.368899999999996, 
+        "Longitude_original" : 106.1836, 
+        "Longitude" : -106.1836, 
+        "Elevation_Feet" : -51348470400000, 
+        "Elevation_Meters" : 3457, 
+        "Established" : 1887, 
+        "Abandoned" : 1962, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "mining", 
+        "Status" : "Removed for Climax molybdenum mine.", 
+        "FID" : 119, 
+        "FID2" : 56
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 57, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.4445, 40.5625
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Coalmont", 
+        "Other_names" : null, 
+        "Current_county" : "Jackson", 
+        "Lattitude" : 40.5625, 
+        "Longitude_original" : 106.4445, 
+        "Longitude" : -106.4445, 
+        "Elevation_Feet" : -55332547200000, 
+        "Elevation_Meters" : 2504, 
+        "Established" : 1911, 
+        "Abandoned" : 1983, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 120, 
+        "FID2" : 57
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 58, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.9659, 40.8541
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Columbine", 
+        "Other_names" : null, 
+        "Current_county" : "Routt", 
+        "Lattitude" : 40.8541, 
+        "Longitude_original" : 106.9659, 
+        "Longitude" : -106.9659, 
+        "Elevation_Feet" : -40027478400000, 
+        "Elevation_Meters" : 2652, 
+        "Established" : 1896, 
+        "Abandoned" : 1867, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "National Register Historic District.", 
+        "FID" : 122, 
+        "FID2" : 58
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 59, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.6853, 39.9344
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Corona", 
+        "Other_names" : null, 
+        "Current_county" : "Grand", 
+        "Lattitude" : 39.9344, 
+        "Longitude_original" : 105.6853, 
+        "Longitude" : -105.6853, 
+        "Elevation_Feet" : -39325305600000, 
+        "Elevation_Meters" : 3573, 
+        "Established" : 1904, 
+        "Abandoned" : 1928, 
+        "Community_Type_primary" : "station", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : null, 
+        "Status" : "Foundations remain.", 
+        "FID" : 123, 
+        "FID2" : 59
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 60, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.1012, 39.0592
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Crystal", 
+        "Other_names" : "Crystal City", 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 39.0592, 
+        "Longitude_original" : 107.1012, 
+        "Longitude" : -107.1012, 
+        "Elevation_Feet" : -32138208000000, 
+        "Elevation_Meters" : 2728, 
+        "Established" : 1881, 
+        "Abandoned" : 1917, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remains.", 
+        "FID" : 125, 
+        "FID2" : 60
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 61, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.7448, 38.1833
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Dallas", 
+        "Other_names" : "Dallas City", 
+        "Current_county" : "Ouray", 
+        "Lattitude" : 38.1833, 
+        "Longitude_original" : 107.7448, 
+        "Longitude" : -107.7448, 
+        "Elevation_Feet" : -33027091200000, 
+        "Elevation_Meters" : 2110, 
+        "Established" : 1880, 
+        "Abandoned" : 1899, 
+        "Community_Type_primary" : "stop", 
+        "Community_Type_secondary" : "station", 
+        "Industry_primary" : "stage", 
+        "Industry_secondary" : "railroad", 
+        "Status" : "Little remains.", 
+        "FID" : 127, 
+        "FID2" : 61
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 62, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.382, 39.0828
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Dayton", 
+        "Other_names" : null, 
+        "Current_county" : "Lake", 
+        "Lattitude" : 39.0828, 
+        "Longitude_original" : 106.382, 
+        "Longitude" : -106.382, 
+        "Elevation_Feet" : -54824947200000, 
+        "Elevation_Meters" : 2814, 
+        "Established" : 1866, 
+        "Abandoned" : 1868, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Site in Twin Lakes CDP.", 
+        "FID" : 128, 
+        "FID2" : 62
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 63, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.2594, 40.2905
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Dearfield", 
+        "Other_names" : null, 
+        "Current_county" : "Weld", 
+        "Lattitude" : 40.2905, 
+        "Longitude_original" : 104.2594, 
+        "Longitude" : -104.2594, 
+        "Elevation_Feet" : -46443974400000, 
+        "Elevation_Meters" : 1371, 
+        "Established" : 1910, 
+        "Abandoned" : 1948, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : "National Register Historic District.", 
+        "FID" : 129, 
+        "FID2" : 63
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 64, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.663, 37.34
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Delagua", 
+        "Other_names" : null, 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.34, 
+        "Longitude_original" : 104.663, 
+        "Longitude" : -104.663, 
+        "Elevation_Feet" : -40506048000000, 
+        "Elevation_Meters" : 2038, 
+        "Established" : 1903, 
+        "Abandoned" : 1954, 
+        "Community_Type_primary" : "company town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 131, 
+        "FID2" : 64
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 65, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.8769, 37.7125
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Delcarbon", 
+        "Other_names" : null, 
+        "Current_county" : "Huerfano", 
+        "Lattitude" : 37.7125, 
+        "Longitude_original" : 104.8769, 
+        "Longitude" : -104.8769, 
+        "Elevation_Feet" : -51361689600000, 
+        "Elevation_Meters" : 1933, 
+        "Established" : 1915, 
+        "Abandoned" : 1953, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 132, 
+        "FID2" : 65
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 66, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.9372, 40.0314
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Dick", 
+        "Other_names" : null, 
+        "Current_county" : "Weld", 
+        "Lattitude" : 40.0314, 
+        "Longitude_original" : 104.9372, 
+        "Longitude" : -104.9372, 
+        "Elevation_Feet" : -58117478400000, 
+        "Elevation_Meters" : 1563, 
+        "Established" : 1870, 
+        "Abandoned" : 1979, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : "railroad", 
+        "Status" : null, 
+        "FID" : 133, 
+        "FID2" : 66
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 67, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.6145, 37.8742
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Duncan", 
+        "Other_names" : null, 
+        "Current_county" : "Saguache", 
+        "Lattitude" : 37.8742, 
+        "Longitude_original" : 105.6145, 
+        "Longitude" : -105.6145, 
+        "Elevation_Feet" : -58772304000000, 
+        "Elevation_Meters" : 2471, 
+        "Established" : 1874, 
+        "Abandoned" : 1900, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Duncan Cabin preserved.", 
+        "FID" : 134, 
+        "FID2" : 67
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 68, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.8817, 40.4378
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Dutchtown", 
+        "Other_names" : null, 
+        "Current_county" : "Grand", 
+        "Lattitude" : 40.4378, 
+        "Longitude_original" : 105.8817, 
+        "Longitude" : -105.8817, 
+        "Elevation_Feet" : -38318140800000, 
+        "Elevation_Meters" : 3278, 
+        "Established" : 1879, 
+        "Abandoned" : 1884, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Site in Rocky Mountain National Park.", 
+        "FID" : 135, 
+        "FID2" : 68
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 69, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.9839, 39.4205
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Dyersville", 
+        "Other_names" : null, 
+        "Current_county" : "Summit", 
+        "Lattitude" : 39.4205, 
+        "Longitude_original" : 105.9839, 
+        "Longitude" : -105.9839, 
+        "Elevation_Feet" : -34373376000000, 
+        "Elevation_Meters" : 3316, 
+        "Established" : 1881, 
+        "Abandoned" : 1908, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Some frames remain.", 
+        "FID" : 136, 
+        "FID2" : 69
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 70, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.6508, 37.0286
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Eastdale", 
+        "Other_names" : null, 
+        "Current_county" : "Costilla", 
+        "Lattitude" : 37.0286, 
+        "Longitude_original" : 105.6508, 
+        "Longitude" : -105.6508, 
+        "Elevation_Feet" : -45331660800000, 
+        "Elevation_Meters" : 2296, 
+        "Established" : 1890, 
+        "Abandoned" : 1909, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 137, 
+        "FID2" : 70
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 71, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.5622, 39.0611
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Eastonville", 
+        "Other_names" : "Easton", 
+        "Current_county" : "El Paso", 
+        "Lattitude" : 39.0611, 
+        "Longitude_original" : 104.5622, 
+        "Longitude" : -104.5622, 
+        "Elevation_Feet" : -54735696000000, 
+        "Elevation_Meters" : 2205, 
+        "Established" : 1872, 
+        "Abandoned" : 1932, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : "railroad", 
+        "Status" : "Some structures remain.", 
+        "FID" : 138, 
+        "FID2" : 71
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 72, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.8359, 38.9606
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Edgerton", 
+        "Other_names" : null, 
+        "Current_county" : "El Paso", 
+        "Lattitude" : 38.9606, 
+        "Longitude_original" : 104.8359, 
+        "Longitude" : -104.8359, 
+        "Elevation_Feet" : -49594464000000, 
+        "Elevation_Meters" : 1950, 
+        "Established" : 1870, 
+        "Abandoned" : 1902, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 139, 
+        "FID2" : 72
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 73, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.5639, 39.9486
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Eldora", 
+        "Other_names" : "Happy Valley, El Dorado", 
+        "Current_county" : "Boulder", 
+        "Lattitude" : 39.9486, 
+        "Longitude_original" : 105.5639, 
+        "Longitude" : -105.5639, 
+        "Elevation_Feet" : -41889312000000, 
+        "Elevation_Meters" : 2634, 
+        "Established" : 1897, 
+        "Abandoned" : 1977, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "National Register Historic District.", 
+        "FID" : 140, 
+        "FID2" : 73
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 74, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.0334, 38.9636
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Elkton", 
+        "Other_names" : null, 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.9636, 
+        "Longitude_original" : 107.0334, 
+        "Longitude" : -107.0334, 
+        "Elevation_Feet" : -47848233600000, 
+        "Elevation_Meters" : 3186, 
+        "Established" : 1881, 
+        "Abandoned" : 1882, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Many structures remain.", 
+        "FID" : 142, 
+        "FID2" : 74
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 75, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.1505, 38.7222
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Elkton", 
+        "Other_names" : null, 
+        "Current_county" : "Teller", 
+        "Lattitude" : 38.7222, 
+        "Longitude_original" : 105.1505, 
+        "Longitude" : -105.1505, 
+        "Elevation_Feet" : -31504377600000, 
+        "Elevation_Meters" : 3039, 
+        "Established" : 1895, 
+        "Abandoned" : 1926, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 143, 
+        "FID2" : 75
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 76, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.5651, 37.8797
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Eureka", 
+        "Other_names" : null, 
+        "Current_county" : "San Juan", 
+        "Lattitude" : 37.8797, 
+        "Longitude_original" : 107.5651, 
+        "Longitude" : -107.5651, 
+        "Elevation_Feet" : -34912512000000, 
+        "Elevation_Meters" : 3006, 
+        "Established" : 1873, 
+        "Abandoned" : 1942, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 144, 
+        "FID2" : 76
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 77, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.1228, 38.8419
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Floresta", 
+        "Other_names" : null, 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.8419, 
+        "Longitude_original" : 107.1228, 
+        "Longitude" : -107.1228, 
+        "Elevation_Feet" : -34407590400000, 
+        "Elevation_Meters" : 3011, 
+        "Established" : 1897, 
+        "Abandoned" : 1919, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal ", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 145, 
+        "FID2" : 77
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 78, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.3472, 39.2158
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Fondis", 
+        "Other_names" : null, 
+        "Current_county" : "Elbert", 
+        "Lattitude" : 39.2158, 
+        "Longitude_original" : 104.3472, 
+        "Longitude" : -104.3472, 
+        "Elevation_Feet" : -56631657600000, 
+        "Elevation_Meters" : 1882, 
+        "Established" : 1895, 
+        "Abandoned" : 1954, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 146, 
+        "FID2" : 78
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 79, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.5948, 38.8066
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Franceville", 
+        "Other_names" : null, 
+        "Current_county" : "El Paso", 
+        "Lattitude" : 38.8066, 
+        "Longitude_original" : 104.5948, 
+        "Longitude" : -104.5948, 
+        "Elevation_Feet" : -59724172800000, 
+        "Elevation_Meters" : 1852, 
+        "Established" : 1881, 
+        "Abandoned" : 1894, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal ", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 147, 
+        "FID2" : 79
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 80, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.7614, 39.4327
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Frankstown", 
+        "Other_names" : null, 
+        "Current_county" : "Douglas", 
+        "Lattitude" : 39.4327, 
+        "Longitude_original" : 104.7614, 
+        "Longitude" : -104.7614, 
+        "Elevation_Feet" : -60260630400000, 
+        "Elevation_Meters" : 1847, 
+        "Established" : 1859, 
+        "Abandoned" : 1864, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Nothing remains.", 
+        "FID" : 148, 
+        "FID2" : 80
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 81, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.6564, 39.515
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Fulford", 
+        "Other_names" : null, 
+        "Current_county" : "Eagle", 
+        "Lattitude" : 39.515, 
+        "Longitude_original" : 106.6564, 
+        "Longitude" : -106.6564, 
+        "Elevation_Feet" : -35638272000000, 
+        "Elevation_Meters" : 2999, 
+        "Established" : 1892, 
+        "Abandoned" : 1910, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 149, 
+        "FID2" : 81
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 82, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.8903, 39.1078
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Garo", 
+        "Other_names" : null, 
+        "Current_county" : "Park", 
+        "Lattitude" : 39.1078, 
+        "Longitude_original" : 105.8903, 
+        "Longitude" : -105.8903, 
+        "Elevation_Feet" : -55929398400000, 
+        "Elevation_Meters" : 2803, 
+        "Established" : 1880, 
+        "Abandoned" : 1955, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 150, 
+        "FID2" : 82
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 83, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.1973, 37.045
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Gato", 
+        "Other_names" : null, 
+        "Current_county" : "Archuleta", 
+        "Lattitude" : 37.045, 
+        "Longitude_original" : 107.1973, 
+        "Longitude" : -107.1973, 
+        "Elevation_Feet" : -52623993600000, 
+        "Elevation_Meters" : 1921, 
+        "Established" : 1899, 
+        "Abandoned" : 1954, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 151, 
+        "FID2" : 83
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 84, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.8132, 39.5739
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Geneva City", 
+        "Other_names" : null, 
+        "Current_county" : "Clear Creek", 
+        "Lattitude" : 39.5739, 
+        "Longitude_original" : 105.8132, 
+        "Longitude" : -105.8132, 
+        "Elevation_Feet" : -43680038400000, 
+        "Elevation_Meters" : 3531, 
+        "Established" : null, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 152, 
+        "FID2" : 84
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 85, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.1228, 38.7819
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Gillett", 
+        "Other_names" : "West Beaver Park, Cripple City, Gillette", 
+        "Current_county" : "Teller", 
+        "Lattitude" : 38.7819, 
+        "Longitude_original" : 105.1228, 
+        "Longitude" : -105.1228, 
+        "Elevation_Feet" : -32545756800000, 
+        "Elevation_Meters" : 3029, 
+        "Established" : 1894, 
+        "Abandoned" : 1913, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 153, 
+        "FID2" : 85
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 86, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.3939, 39.5328
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Gilman", 
+        "Other_names" : null, 
+        "Current_county" : "Eagle", 
+        "Lattitude" : 39.5328, 
+        "Longitude_original" : 106.3939, 
+        "Longitude" : -106.3939, 
+        "Elevation_Feet" : -32138208000000, 
+        "Elevation_Meters" : 2728, 
+        "Established" : 1886, 
+        "Abandoned" : 1985, 
+        "Community_Type_primary" : "company town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Company town largely intact.", 
+        "FID" : 156, 
+        "FID2" : 86
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 87, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.4394, 39.4014
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Gold Park", 
+        "Other_names" : null, 
+        "Current_county" : "Eagle", 
+        "Lattitude" : 39.4014, 
+        "Longitude_original" : 106.4394, 
+        "Longitude" : -106.4394, 
+        "Elevation_Feet" : -53688873600000, 
+        "Elevation_Meters" : 2825, 
+        "Established" : 1881, 
+        "Abandoned" : 1983, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 206, 
+        "FID2" : 87
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 88, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.1261, 38.7178
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Goldfield", 
+        "Other_names" : null, 
+        "Current_county" : "Teller", 
+        "Lattitude" : 38.7178, 
+        "Longitude_original" : 105.1261, 
+        "Longitude" : -105.1261, 
+        "Elevation_Feet" : -33681830400000, 
+        "Elevation_Meters" : 3018, 
+        "Established" : 1895, 
+        "Abandoned" : 1932, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Many structures remain.", 
+        "FID" : 207, 
+        "FID2" : 88
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 89, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.9898, 38.9592
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Gothic", 
+        "Other_names" : null, 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.9592, 
+        "Longitude_original" : 106.9898, 
+        "Longitude" : -106.9898, 
+        "Elevation_Feet" : -46840982400000, 
+        "Elevation_Meters" : 2891, 
+        "Established" : 1879, 
+        "Abandoned" : 1914, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Rocky Mountain Biological Laboratory", 
+        "FID" : 208, 
+        "FID2" : 89
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 90, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.8986, 37.7128
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Graysill Mines", 
+        "Other_names" : null, 
+        "Current_county" : "San Juan", 
+        "Lattitude" : 37.7128, 
+        "Longitude_original" : 107.8986, 
+        "Longitude" : -107.8986, 
+        "Elevation_Feet" : -32132937600000, 
+        "Elevation_Meters" : 3338, 
+        "Established" : 1945, 
+        "Abandoned" : 1963, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "uranium", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 209, 
+        "FID2" : 90
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 91, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.6903, 37.9164
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Guston", 
+        "Other_names" : null, 
+        "Current_county" : "Ouray", 
+        "Lattitude" : 37.9164, 
+        "Longitude_original" : 107.6903, 
+        "Longitude" : -107.6903, 
+        "Elevation_Feet" : -35414841600000, 
+        "Elevation_Meters" : 3306, 
+        "Established" : 1883, 
+        "Abandoned" : 1898, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 210, 
+        "FID2" : 91
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 92, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.3608, 38.6397
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Hancock", 
+        "Other_names" : null, 
+        "Current_county" : "Chaffee", 
+        "Lattitude" : 38.6397, 
+        "Longitude_original" : 106.3608, 
+        "Longitude" : -106.3608, 
+        "Elevation_Feet" : -60436800000000, 
+        "Elevation_Meters" : 3369, 
+        "Established" : 1880, 
+        "Abandoned" : 1904, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "mining", 
+        "Status" : "Little remains.", 
+        "FID" : 213, 
+        "FID2" : 92
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 93, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.9595, 40.3322
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Haybro", 
+        "Other_names" : "Junction City", 
+        "Current_county" : "Routt", 
+        "Lattitude" : 40.3322, 
+        "Longitude_original" : 106.9595, 
+        "Longitude" : -106.9595, 
+        "Elevation_Feet" : -52779081600000, 
+        "Elevation_Meters" : 2224, 
+        "Established" : 1912, 
+        "Abandoned" : 1951, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 214, 
+        "FID2" : 93
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 94, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.8687, 39.93
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Henderson Island", 
+        "Other_names" : "Island Station", 
+        "Current_county" : "Adams", 
+        "Lattitude" : 39.93, 
+        "Longitude_original" : 104.8687, 
+        "Longitude" : -104.8687, 
+        "Elevation_Feet" : -61841232000000, 
+        "Elevation_Meters" : 1527, 
+        "Established" : 1859, 
+        "Abandoned" : 1959, 
+        "Community_Type_primary" : "stop", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "trail", 
+        "Industry_secondary" : null, 
+        "Status" : "Adams County Fairgrounds.", 
+        "FID" : 215, 
+        "FID2" : 94
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 95, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.377, 38.0208
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Henson", 
+        "Other_names" : null, 
+        "Current_county" : "Hinsdale", 
+        "Lattitude" : 38.0208, 
+        "Longitude_original" : 107.377, 
+        "Longitude" : -107.377, 
+        "Elevation_Feet" : -54698716800000, 
+        "Elevation_Meters" : 2815, 
+        "Established" : 1871, 
+        "Abandoned" : 1913, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 216, 
+        "FID2" : 95
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 96, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.0092, 39.7603
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Highland", 
+        "Other_names" : null, 
+        "Current_county" : "Denver", 
+        "Lattitude" : 39.7603, 
+        "Longitude_original" : 105.0092, 
+        "Longitude" : -105.0092, 
+        "Elevation_Feet" : -54709344000000, 
+        "Elevation_Meters" : 1596, 
+        "Established" : 1858, 
+        "Abandoned" : 1859, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Denver neighborhood", 
+        "FID" : 217, 
+        "FID2" : 96
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 97, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.4781, 39.415
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Holy Cross City", 
+        "Other_names" : "Holy Cross", 
+        "Current_county" : "Eagle", 
+        "Lattitude" : 39.415, 
+        "Longitude_original" : 106.4781, 
+        "Longitude" : -106.4781, 
+        "Elevation_Feet" : -48634473600000, 
+        "Elevation_Meters" : 3483, 
+        "Established" : 1880, 
+        "Abandoned" : 1905, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Few structures remain.", 
+        "FID" : 218, 
+        "FID2" : 97
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 98, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.4565, 40.3154
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Homestead Meadows", 
+        "Other_names" : null, 
+        "Current_county" : "Larimer", 
+        "Lattitude" : 40.3154, 
+        "Longitude_original" : 105.4565, 
+        "Longitude" : -105.4565, 
+        "Elevation_Feet" : -40374547200000, 
+        "Elevation_Meters" : 2649, 
+        "Established" : 1889, 
+        "Abandoned" : 1952, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : "logging", 
+        "Status" : "National Register Historic District.", 
+        "FID" : 219, 
+        "FID2" : 98
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 99, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.5942, 37.8356
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Howardsville", 
+        "Other_names" : "Bullion City", 
+        "Current_county" : "San Juan", 
+        "Lattitude" : 37.8356, 
+        "Longitude_original" : 107.5942, 
+        "Longitude" : -107.5942, 
+        "Elevation_Feet" : -38541571200000, 
+        "Elevation_Meters" : 2971, 
+        "Established" : 1874, 
+        "Abandoned" : 1939, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Modern mill.", 
+        "FID" : 220, 
+        "FID2" : 99
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 100, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.6059, 39.1072
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Independence", 
+        "Other_names" : "Farwell, Sparkill, Chipeta", 
+        "Current_county" : "Pitkin", 
+        "Lattitude" : 39.1072, 
+        "Longitude_original" : 106.6059, 
+        "Longitude" : -106.6059, 
+        "Elevation_Feet" : -33332083200000, 
+        "Elevation_Meters" : 3326, 
+        "Established" : 1879, 
+        "Abandoned" : 1899, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "National Register Historic District.", 
+        "FID" : 223, 
+        "FID2" : 100
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 101, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.1366, 38.7322
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Independence", 
+        "Other_names" : "Macon", 
+        "Current_county" : "Teller", 
+        "Lattitude" : 38.7322, 
+        "Longitude_original" : 105.1366, 
+        "Longitude" : -105.1366, 
+        "Elevation_Feet" : -41947113600000, 
+        "Elevation_Meters" : 3243, 
+        "Established" : 1899, 
+        "Abandoned" : 1954, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 226, 
+        "FID2" : 101
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 102, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.0973, 38.475
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Iola", 
+        "Other_names" : null, 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.475, 
+        "Longitude_original" : 107.0973, 
+        "Longitude" : -107.0973, 
+        "Elevation_Feet" : -45647280000000, 
+        "Elevation_Meters" : 2293, 
+        "Established" : 1896, 
+        "Abandoned" : 1963, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : null, 
+        "Status" : "Submerged in Blue Mesa Reservoir.", 
+        "FID" : 227, 
+        "FID2" : 102
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 103, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.6803, 37.9328
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Ironton", 
+        "Other_names" : null, 
+        "Current_county" : "Ouray", 
+        "Lattitude" : 37.9328, 
+        "Longitude_original" : 107.6803, 
+        "Longitude" : -107.6803, 
+        "Elevation_Feet" : -36900576000000, 
+        "Elevation_Meters" : 2987, 
+        "Established" : 1883, 
+        "Abandoned" : 1920, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 228, 
+        "FID2" : 103
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 104, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.1506, 37.0272
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Juanita", 
+        "Other_names" : null, 
+        "Current_county" : "Archuleta", 
+        "Lattitude" : 37.0272, 
+        "Longitude_original" : 107.1506, 
+        "Longitude" : -107.1506, 
+        "Elevation_Feet" : -50320310400000, 
+        "Elevation_Meters" : 1943, 
+        "Established" : 1904, 
+        "Abandoned" : 1912, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "ranching", 
+        "Status" : "Railroad structures remain.", 
+        "FID" : 230, 
+        "FID2" : 104
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 105, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.0752, 40.7028
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Keota", 
+        "Other_names" : null, 
+        "Current_county" : "Weld", 
+        "Lattitude" : 40.7028, 
+        "Longitude_original" : 104.0752, 
+        "Longitude" : -104.0752, 
+        "Elevation_Feet" : -31738435200000, 
+        "Elevation_Meters" : 1513, 
+        "Established" : 1888, 
+        "Abandoned" : 1973, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "ranching", 
+        "Status" : "Structures remain.", 
+        "FID" : 231, 
+        "FID2" : 105
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 106, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.227, 40.9269
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Kings Canyon", 
+        "Other_names" : null, 
+        "Current_county" : "Jackson", 
+        "Lattitude" : 40.9269, 
+        "Longitude_original" : 106.227, 
+        "Longitude" : -106.227, 
+        "Elevation_Feet" : -49652265600000, 
+        "Elevation_Meters" : 2559, 
+        "Established" : 1928, 
+        "Abandoned" : 1936, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "copper", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 232, 
+        "FID2" : 106
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 107, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.1897, 39.4242
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Kokomo", 
+        "Other_names" : null, 
+        "Current_county" : "Summit", 
+        "Lattitude" : 39.4242, 
+        "Longitude_original" : 106.1897, 
+        "Longitude" : -106.1897, 
+        "Elevation_Feet" : -40179888000000, 
+        "Elevation_Meters" : 3260, 
+        "Established" : 1879, 
+        "Abandoned" : 1965, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Buried under mine waste.", 
+        "FID" : 233, 
+        "FID2" : 107
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 108, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.2033, 37.5931
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "La Veta Pass", 
+        "Other_names" : "Veta Pass, Uptop", 
+        "Current_county" : "Huerfano", 
+        "Lattitude" : 37.5931, 
+        "Longitude_original" : 105.2033, 
+        "Longitude" : -105.2033, 
+        "Elevation_Feet" : -49838976000000, 
+        "Elevation_Meters" : 2862, 
+        "Established" : 1877, 
+        "Abandoned" : 1962, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "tourist", 
+        "Status" : "National Register Historic District.", 
+        "FID" : 234, 
+        "FID2" : 108
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 109, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -103.5916, 39.7408
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Last Chance", 
+        "Other_names" : null, 
+        "Current_county" : "Washington", 
+        "Lattitude" : 39.7408, 
+        "Longitude_original" : 103.5916, 
+        "Longitude" : -103.5916, 
+        "Elevation_Feet" : -36282643200000, 
+        "Elevation_Meters" : 1469, 
+        "Established" : 1925, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : "highway stop", 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 236, 
+        "FID2" : 109
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 110, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.7625, 39.2425
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Lenado", 
+        "Other_names" : null, 
+        "Current_county" : "Pitkin", 
+        "Lattitude" : 39.2425, 
+        "Longitude_original" : 106.7625, 
+        "Longitude" : -106.7625, 
+        "Elevation_Feet" : -45108057600000, 
+        "Elevation_Meters" : 2603, 
+        "Established" : 1891, 
+        "Abandoned" : 1907, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 237, 
+        "FID2" : 110
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 111, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.5958, 37.8603
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Liberty", 
+        "Other_names" : null, 
+        "Current_county" : "Saguache", 
+        "Lattitude" : 37.8603, 
+        "Longitude_original" : 105.5958, 
+        "Longitude" : -105.5958, 
+        "Elevation_Feet" : -53470713600000, 
+        "Elevation_Meters" : 2522, 
+        "Established" : 1900, 
+        "Abandoned" : 1921, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 238, 
+        "FID2" : 111
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 112, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.5833, 37.3333
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Ludlow", 
+        "Other_names" : null, 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.3333, 
+        "Longitude_original" : 104.5833, 
+        "Longitude" : -104.5833, 
+        "Elevation_Feet" : -53223523200000, 
+        "Elevation_Meters" : 1915, 
+        "Established" : 1896, 
+        "Abandoned" : 1954, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "National Historic Landmark.", 
+        "FID" : 239, 
+        "FID2" : 112
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 113, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.8481, 40.4455
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Lulu City", 
+        "Other_names" : null, 
+        "Current_county" : "Grand", 
+        "Lattitude" : 40.4455, 
+        "Longitude_original" : 105.8481, 
+        "Longitude" : -105.8481, 
+        "Elevation_Feet" : -51101280000000, 
+        "Elevation_Meters" : 2850, 
+        "Established" : 1879, 
+        "Abandoned" : 1951, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Three cabins remain.", 
+        "FID" : 240, 
+        "FID2" : 113
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 114, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.8669, 38.6019
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Lytle", 
+        "Other_names" : "Turkey Creek", 
+        "Current_county" : "El Paso", 
+        "Lattitude" : 38.6019, 
+        "Longitude_original" : 104.8669, 
+        "Longitude" : -104.8669, 
+        "Elevation_Feet" : -54264902400000, 
+        "Elevation_Meters" : 1905, 
+        "Established" : 1877, 
+        "Abandoned" : 1920, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : "Schoolhouse remains.", 
+        "FID" : 241, 
+        "FID2" : 114
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 115, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.6413, 37.1276
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Madrid", 
+        "Other_names" : "Madrid Plaza", 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.1276, 
+        "Longitude_original" : 104.6413, 
+        "Longitude" : -104.6413, 
+        "Elevation_Feet" : -53128828800000, 
+        "Elevation_Meters" : 1916, 
+        "Established" : 1864, 
+        "Abandoned" : 1917, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 242, 
+        "FID2" : 115
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 116, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.2608, 37.7544
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Malachite", 
+        "Other_names" : null, 
+        "Current_county" : "Huerfano", 
+        "Lattitude" : 37.7544, 
+        "Longitude_original" : 105.2608, 
+        "Longitude" : -105.2608, 
+        "Elevation_Feet" : -46657036800000, 
+        "Elevation_Meters" : 2283, 
+        "Established" : 1880, 
+        "Abandoned" : 1915, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 243, 
+        "FID2" : 116
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 117, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.3509, 39.2294
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Malta", 
+        "Other_names" : null, 
+        "Current_county" : "Lake", 
+        "Lattitude" : 39.2294, 
+        "Longitude_original" : 106.3509, 
+        "Longitude" : -106.3509, 
+        "Elevation_Feet" : -43527542400000, 
+        "Elevation_Meters" : 2923, 
+        "Established" : 1875, 
+        "Abandoned" : 1955, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Schoolhouse remains.", 
+        "FID" : 244, 
+        "FID2" : 117
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 118, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.6, 40.7322
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Manhattan", 
+        "Other_names" : null, 
+        "Current_county" : "Larimer", 
+        "Lattitude" : 40.7322, 
+        "Longitude_original" : 105.6, 
+        "Longitude" : -105.6, 
+        "Elevation_Feet" : -47159280000000, 
+        "Elevation_Meters" : 2583, 
+        "Established" : 1887, 
+        "Abandoned" : 1900, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Cemetery remains.", 
+        "FID" : 245, 
+        "FID2" : 118
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 119, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.245, 40.3094
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Masters", 
+        "Other_names" : null, 
+        "Current_county" : "Weld", 
+        "Lattitude" : 40.3094, 
+        "Longitude_original" : 104.245, 
+        "Longitude" : -104.245, 
+        "Elevation_Feet" : -47769350400000, 
+        "Elevation_Meters" : 1358, 
+        "Established" : 1900, 
+        "Abandoned" : 1967, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "farming", 
+        "Status" : null, 
+        "FID" : 246, 
+        "FID2" : 119
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 120, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -108.0767, 37.3506
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Mayday", 
+        "Other_names" : null, 
+        "Current_county" : "La Plata", 
+        "Lattitude" : 37.3506, 
+        "Longitude_original" : 108.0767, 
+        "Longitude" : -108.0767, 
+        "Elevation_Feet" : -38986099200000, 
+        "Elevation_Meters" : 2662, 
+        "Established" : 1913, 
+        "Abandoned" : 1914, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 247, 
+        "FID2" : 120
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 121, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.5723, 37.855
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Middleton", 
+        "Other_names" : null, 
+        "Current_county" : "San Juan", 
+        "Lattitude" : 37.855, 
+        "Longitude_original" : 107.5723, 
+        "Longitude" : -107.5723, 
+        "Elevation_Feet" : -37089964800000, 
+        "Elevation_Meters" : 2985, 
+        "Established" : 1883, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 252, 
+        "FID2" : 121
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 122, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.5073, 39.7901
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Missouri City", 
+        "Other_names" : "Missouri Flats", 
+        "Current_county" : "Gilpin", 
+        "Lattitude" : 39.7901, 
+        "Longitude_original" : 105.5073, 
+        "Longitude" : -105.5073, 
+        "Elevation_Feet" : -34694265600000, 
+        "Elevation_Meters" : 2704, 
+        "Established" : 1860, 
+        "Abandoned" : 1863, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "A single grave remains.", 
+        "FID" : 254, 
+        "FID2" : 122
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 123, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.995, 39.6767
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Montana", 
+        "Other_names" : "Montana City", 
+        "Current_county" : "Denver", 
+        "Lattitude" : 39.6767, 
+        "Longitude_original" : 104.995, 
+        "Longitude" : -104.995, 
+        "Elevation_Feet" : -55529884800000, 
+        "Elevation_Meters" : 1588, 
+        "Established" : 1858, 
+        "Abandoned" : 1859, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Near Grant-Frontier Park in south Denver.", 
+        "FID" : 255, 
+        "FID2" : 123
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 124, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.8672, 39.5811
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Montezuma", 
+        "Other_names" : null, 
+        "Current_county" : "Summit", 
+        "Lattitude" : 39.5811, 
+        "Longitude_original" : 105.8672, 
+        "Longitude" : -105.8672, 
+        "Elevation_Feet" : -52297833600000, 
+        "Elevation_Meters" : 3143, 
+        "Established" : 1865, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Town government reactivated.", 
+        "FID" : 256, 
+        "FID2" : 124
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 125, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.5047, 37.032
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Morley", 
+        "Other_names" : null, 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.032, 
+        "Longitude_original" : 104.5047, 
+        "Longitude" : -104.5047, 
+        "Elevation_Feet" : -61299504000000, 
+        "Elevation_Meters" : 2142, 
+        "Established" : 1878, 
+        "Abandoned" : 1956, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "coal", 
+        "Status" : null, 
+        "FID" : 1, 
+        "FID2" : 125
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 126, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.2065, 39.6935
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Mount Vernon", 
+        "Other_names" : null, 
+        "Current_county" : "Jefferson", 
+        "Lattitude" : 39.6935, 
+        "Longitude_original" : 105.2065, 
+        "Longitude" : -105.2065, 
+        "Elevation_Feet" : -51424761600000, 
+        "Elevation_Meters" : 1932, 
+        "Established" : 1859, 
+        "Abandoned" : 1885, 
+        "Community_Type_primary" : "stop", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "trail ", 
+        "Industry_secondary" : null, 
+        "Status" : "Located in Matthews/Winters Park.", 
+        "FID" : 3, 
+        "FID2" : 126
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 127, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.9959, 40.57
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Mystic", 
+        "Other_names" : null, 
+        "Current_county" : "Routt", 
+        "Lattitude" : 40.57, 
+        "Longitude_original" : 106.9959, 
+        "Longitude" : -106.9959, 
+        "Elevation_Feet" : -33752851200000, 
+        "Elevation_Meters" : 2103, 
+        "Established" : 1910, 
+        "Abandoned" : 1942, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 4, 
+        "FID2" : 127
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 128, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.6915, 37.6406
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Needleton", 
+        "Other_names" : null, 
+        "Current_county" : "San Juan", 
+        "Lattitude" : 37.6406, 
+        "Longitude_original" : 107.6915, 
+        "Longitude" : -107.6915, 
+        "Elevation_Feet" : -53376019200000, 
+        "Elevation_Meters" : 2523, 
+        "Established" : 1882, 
+        "Abandoned" : 1910, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 5, 
+        "FID2" : 128
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 129, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.5325, 39.7953
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Nevadaville", 
+        "Other_names" : "Nevada, Nevada City", 
+        "Current_county" : "Gilpin", 
+        "Lattitude" : 39.7953, 
+        "Longitude_original" : 105.5325, 
+        "Longitude" : -105.5325, 
+        "Elevation_Feet" : -58327776000000, 
+        "Elevation_Meters" : 2780, 
+        "Established" : 1861, 
+        "Abandoned" : 1921, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Some residents remain.", 
+        "FID" : 6, 
+        "FID2" : 129
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 130, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.6556, 39.3247
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Norrie", 
+        "Other_names" : "Norrie Colony", 
+        "Current_county" : "Pitkin", 
+        "Lattitude" : 39.3247, 
+        "Longitude_original" : 106.6556, 
+        "Longitude" : -106.6556, 
+        "Elevation_Feet" : -47569507200000, 
+        "Elevation_Meters" : 2579, 
+        "Established" : null, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "logging", 
+        "Status" : "Summer cabins", 
+        "FID" : 14, 
+        "FID2" : 130
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 131, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.9259, 37.8642
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "North Creede", 
+        "Other_names" : "Jimtown", 
+        "Current_county" : "Mineral", 
+        "Lattitude" : 37.8642, 
+        "Longitude_original" : 106.9259, 
+        "Longitude" : -106.9259, 
+        "Elevation_Feet" : -31727894400000, 
+        "Elevation_Meters" : 2732, 
+        "Established" : 1908, 
+        "Abandoned" : 1919, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Few structures remain.", 
+        "FID" : 17, 
+        "FID2" : 131
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 132, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.6117, 38.5667
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Ohio", 
+        "Other_names" : "Ohio City", 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.5667, 
+        "Longitude_original" : 106.6117, 
+        "Longitude" : -106.6117, 
+        "Elevation_Feet" : -44161372800000, 
+        "Elevation_Meters" : 2612, 
+        "Established" : 1880, 
+        "Abandoned" : 1972, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Some residents.", 
+        "FID" : 21, 
+        "FID2" : 132
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 133, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.1172, 40.9244
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Old Roach", 
+        "Other_names" : null, 
+        "Current_county" : "Larimer", 
+        "Lattitude" : 40.9244, 
+        "Longitude_original" : 106.1172, 
+        "Longitude" : -106.1172, 
+        "Elevation_Feet" : -50154508800000, 
+        "Elevation_Meters" : 2859, 
+        "Established" : 1923, 
+        "Abandoned" : 1938, 
+        "Community_Type_primary" : "company town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "logging", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 23, 
+        "FID2" : 133
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 134, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.8168, 38.2043
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Orient", 
+        "Other_names" : null, 
+        "Current_county" : "Saguache", 
+        "Lattitude" : 38.2043, 
+        "Longitude_original" : 105.8168, 
+        "Longitude" : -105.8168, 
+        "Elevation_Feet" : -34220880000000, 
+        "Elevation_Meters" : 2708, 
+        "Established" : 1894, 
+        "Abandoned" : 1905, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "iron", 
+        "Industry_secondary" : null, 
+        "Status" : "Two adjacent townsites.", 
+        "FID" : 27, 
+        "FID2" : 134
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 135, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.2522, 39.2353
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Oro City", 
+        "Other_names" : "Oro", 
+        "Current_county" : "Lake", 
+        "Lattitude" : 39.2353, 
+        "Longitude_original" : 106.2522, 
+        "Longitude" : -106.2522, 
+        "Elevation_Feet" : -39801283200000, 
+        "Elevation_Meters" : 3264, 
+        "Established" : 1861, 
+        "Abandoned" : 1895, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 28, 
+        "FID2" : 135
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 136, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.1992, 37.0381
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Pagosa Junction", 
+        "Other_names" : null, 
+        "Current_county" : "Archuleta", 
+        "Lattitude" : 37.0381, 
+        "Longitude_original" : 107.1992, 
+        "Longitude" : -107.1992, 
+        "Elevation_Feet" : -53759980800000, 
+        "Elevation_Meters" : 1910, 
+        "Established" : 1899, 
+        "Abandoned" : 1954, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 31, 
+        "FID2" : 136
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 137, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.3336, 39.4572
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Pando", 
+        "Other_names" : null, 
+        "Current_county" : "Eagle", 
+        "Lattitude" : 39.4572, 
+        "Longitude_original" : 106.3336, 
+        "Longitude" : -106.3336, 
+        "Elevation_Feet" : -55740182400000, 
+        "Elevation_Meters" : 2805, 
+        "Established" : 1891, 
+        "Abandoned" : 1942, 
+        "Community_Type_primary" : "station", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 32, 
+        "FID2" : 137
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 138, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.7856, 37.9333
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Pandora", 
+        "Other_names" : null, 
+        "Current_county" : "San Miguel", 
+        "Lattitude" : 37.9333, 
+        "Longitude_original" : 107.7856, 
+        "Longitude" : -107.7856, 
+        "Elevation_Feet" : -32043513600000, 
+        "Elevation_Meters" : 2729, 
+        "Established" : 1881, 
+        "Abandoned" : 1902, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 35, 
+        "FID2" : 138
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 139, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.95, 39.4989
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Parkville", 
+        "Other_names" : "Park City", 
+        "Current_county" : "Summit", 
+        "Lattitude" : 39.4989, 
+        "Longitude_original" : 106.95, 
+        "Longitude" : -106.95, 
+        "Elevation_Feet" : -47438006400000, 
+        "Elevation_Meters" : 3190, 
+        "Established" : 1861, 
+        "Abandoned" : 1866, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Cemetery remains.", 
+        "FID" : 36, 
+        "FID2" : 139
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 140, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -108.0767, 37.3506
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Parrott City", 
+        "Other_names" : "Parrott", 
+        "Current_county" : "La Plata", 
+        "Lattitude" : 37.3506, 
+        "Longitude_original" : 108.0767, 
+        "Longitude" : -108.0767, 
+        "Elevation_Feet" : -38986099200000, 
+        "Elevation_Meters" : 2662, 
+        "Established" : 1876, 
+        "Abandoned" : 1898, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Remnants of Mayday.", 
+        "FID" : 38, 
+        "FID2" : 140
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 141, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.547, 40.9852
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Pearl", 
+        "Other_names" : null, 
+        "Current_county" : "Jackson", 
+        "Lattitude" : 40.9852, 
+        "Longitude_original" : 106.547, 
+        "Longitude" : -106.547, 
+        "Elevation_Feet" : -49336732800000, 
+        "Elevation_Meters" : 2562, 
+        "Established" : 1889, 
+        "Abandoned" : 1919, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "copper", 
+        "Industry_secondary" : null, 
+        "Status" : "Many structures remain.", 
+        "FID" : 74, 
+        "FID2" : 141
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 142, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.5595, 38.938
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Pieplant Mill", 
+        "Other_names" : "Pieplant", 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.938, 
+        "Longitude_original" : 106.5595, 
+        "Longitude" : -106.5595, 
+        "Elevation_Feet" : -52392528000000, 
+        "Elevation_Meters" : 3142, 
+        "Established" : 1904, 
+        "Abandoned" : 1906, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining ", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 75, 
+        "FID2" : 142
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 143, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -103.4386, 40.2094
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Pinneo", 
+        "Other_names" : null, 
+        "Current_county" : "Washington", 
+        "Lattitude" : 40.2094, 
+        "Longitude_original" : 103.4386, 
+        "Longitude" : -103.4386, 
+        "Elevation_Feet" : -50672649600000, 
+        "Elevation_Meters" : 1330, 
+        "Established" : 1883, 
+        "Abandoned" : 1931, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 76, 
+        "FID2" : 143
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 144, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.0625, 38.9522
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Pittsburg", 
+        "Other_names" : null, 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.9522, 
+        "Longitude_original" : 107.0625, 
+        "Longitude" : -107.0625, 
+        "Elevation_Feet" : -53341804800000, 
+        "Elevation_Meters" : 2828, 
+        "Established" : 1881, 
+        "Abandoned" : 1896, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining ", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 77, 
+        "FID2" : 144
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 145, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.6233, 40.698
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Poudre City", 
+        "Other_names" : null, 
+        "Current_county" : "Larimer", 
+        "Lattitude" : 40.698, 
+        "Longitude_original" : 105.6233, 
+        "Longitude" : -105.6233, 
+        "Elevation_Feet" : -51674630400000, 
+        "Elevation_Meters" : 2235, 
+        "Established" : 1888, 
+        "Abandoned" : 1891, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : "mill", 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Nothing remains.", 
+        "FID" : 79, 
+        "FID2" : 145
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 146, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.0211, 39.4958
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Preston", 
+        "Other_names" : null, 
+        "Current_county" : "Summit", 
+        "Lattitude" : 39.4958, 
+        "Longitude_original" : 106.0211, 
+        "Longitude" : -106.0211, 
+        "Elevation_Feet" : -39075523200000, 
+        "Elevation_Meters" : 3271, 
+        "Established" : 1875, 
+        "Abandoned" : 1889, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 80, 
+        "FID2" : 146
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 147, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.7417, 37.1425
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Primero", 
+        "Other_names" : null, 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.1425, 
+        "Longitude_original" : 104.7417, 
+        "Longitude" : -104.7417, 
+        "Elevation_Feet" : -36435225600000, 
+        "Elevation_Meters" : 2077, 
+        "Established" : 1901, 
+        "Abandoned" : 1933, 
+        "Community_Type_primary" : "company town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 81, 
+        "FID2" : 147
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 148, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -102.9516, 40.8069
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Proctor", 
+        "Other_names" : null, 
+        "Current_county" : "Logan", 
+        "Lattitude" : 40.8069, 
+        "Longitude_original" : 102.9516, 
+        "Longitude" : -102.9516, 
+        "Elevation_Feet" : -37547625600000, 
+        "Elevation_Meters" : 1152, 
+        "Established" : 1908, 
+        "Abandoned" : 1963, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "farming", 
+        "Status" : "Some structures remain.", 
+        "FID" : 82, 
+        "FID2" : 148
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 149, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.6016, 40.6383
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Purcell", 
+        "Other_names" : null, 
+        "Current_county" : "Weld", 
+        "Lattitude" : 40.6383, 
+        "Longitude_original" : 104.6016, 
+        "Longitude" : -104.6016, 
+        "Elevation_Feet" : -61431004800000, 
+        "Elevation_Meters" : 1531, 
+        "Established" : 1909, 
+        "Abandoned" : 1951, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 83, 
+        "FID2" : 149
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 150, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.3344, 38.1261
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Querida", 
+        "Other_names" : "Bassickville", 
+        "Current_county" : "Custer", 
+        "Lattitude" : 38.1261, 
+        "Longitude_original" : 105.3344, 
+        "Longitude" : -105.3344, 
+        "Elevation_Feet" : -31002134400000, 
+        "Elevation_Meters" : 2739, 
+        "Established" : 1880, 
+        "Abandoned" : 1906, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 85, 
+        "FID2" : 150
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 151, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.7026, 37.9036
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Red Mountain", 
+        "Other_names" : "Red Mountain Town", 
+        "Current_county" : "Ouray", 
+        "Lattitude" : 37.9036, 
+        "Longitude_original" : 107.7026, 
+        "Longitude" : -107.7026, 
+        "Elevation_Feet" : -32637859200000, 
+        "Elevation_Meters" : 3333, 
+        "Established" : 1883, 
+        "Abandoned" : 1913, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Few original structures.", 
+        "FID" : 87, 
+        "FID2" : 151
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 152, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.8958, 39.5339
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Rexford", 
+        "Other_names" : null, 
+        "Current_county" : "Summit", 
+        "Lattitude" : 39.5339, 
+        "Longitude_original" : 105.8958, 
+        "Longitude" : -105.8958, 
+        "Elevation_Feet" : -48539865600000, 
+        "Elevation_Meters" : 3484, 
+        "Established" : 1881, 
+        "Abandoned" : 1883, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 88, 
+        "FID2" : 152
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 153, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.37, 38.675
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Romley", 
+        "Other_names" : null, 
+        "Current_county" : "Chaffee", 
+        "Lattitude" : 38.675, 
+        "Longitude_original" : 106.37, 
+        "Longitude" : -106.37, 
+        "Elevation_Feet" : -52076995200000, 
+        "Elevation_Meters" : 3145, 
+        "Established" : 1886, 
+        "Abandoned" : 1924, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad ", 
+        "Industry_secondary" : "mining", 
+        "Status" : "Little remains.", 
+        "FID" : 90, 
+        "FID2" : 153
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 154, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.3361, 38.0972
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Rosita", 
+        "Other_names" : null, 
+        "Current_county" : "Custer", 
+        "Lattitude" : 38.0972, 
+        "Longitude_original" : 105.3361, 
+        "Longitude" : -105.3361, 
+        "Elevation_Feet" : -36619257600000, 
+        "Elevation_Meters" : 2685, 
+        "Established" : 1874, 
+        "Abandoned" : 1966, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : "silver", 
+        "Status" : "One business open.", 
+        "FID" : 92, 
+        "FID2" : 154
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 155, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.6092, 39.0208
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Ruby", 
+        "Other_names" : "Lincoln Creek", 
+        "Current_county" : "Pitkin", 
+        "Lattitude" : 39.0208, 
+        "Longitude_original" : 106.6092, 
+        "Longitude" : -106.6092, 
+        "Elevation_Feet" : -50086166400000, 
+        "Elevation_Meters" : 3469, 
+        "Established" : null, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 93, 
+        "FID2" : 155
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 156, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.5369, 39.7786
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Russell Gulch", 
+        "Other_names" : null, 
+        "Current_county" : "Gilpin", 
+        "Lattitude" : 39.7786, 
+        "Longitude_original" : 105.5369, 
+        "Longitude" : -105.5369, 
+        "Elevation_Feet" : -57507321600000, 
+        "Elevation_Meters" : 2788, 
+        "Established" : 1859, 
+        "Abandoned" : 1943, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Some residents remain.", 
+        "FID" : 95, 
+        "FID2" : 156
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 157, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.3481, 38.7047
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Saint Elmo", 
+        "Other_names" : null, 
+        "Current_county" : "Chaffee", 
+        "Lattitude" : 38.7047, 
+        "Longitude_original" : 106.3481, 
+        "Longitude" : -106.3481, 
+        "Elevation_Feet" : -61922707200000, 
+        "Elevation_Meters" : 3050, 
+        "Established" : 1880, 
+        "Abandoned" : 1952, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad ", 
+        "Industry_secondary" : "mining", 
+        "Status" : "National Register Historic District.", 
+        "FID" : 98, 
+        "FID2" : 157
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 158, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.8527, 40.277
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Saint Vrain", 
+        "Other_names" : null, 
+        "Current_county" : "Weld", 
+        "Lattitude" : 40.277, 
+        "Longitude_original" : 104.8527, 
+        "Longitude" : -104.8527, 
+        "Elevation_Feet" : -38113027200000, 
+        "Elevation_Meters" : 1451, 
+        "Established" : 1837, 
+        "Abandoned" : 1875, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "trading", 
+        "Industry_secondary" : null, 
+        "Status" : "Adjacent to site of Fort Saint Vrain.", 
+        "FID" : 99, 
+        "FID2" : 158
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 159, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.9547, 40.0369
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Saint Vrains", 
+        "Other_names" : null, 
+        "Current_county" : "Weld", 
+        "Lattitude" : 40.0369, 
+        "Longitude_original" : 104.9547, 
+        "Longitude" : -104.9547, 
+        "Elevation_Feet" : -58717094400000, 
+        "Elevation_Meters" : 1557, 
+        "Established" : 1915, 
+        "Abandoned" : 1918, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 100, 
+        "FID2" : 159
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 160, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.8817, 39.5717
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Saints John", 
+        "Other_names" : "Coleyville, Saint John", 
+        "Current_county" : "Summit", 
+        "Lattitude" : 39.5717, 
+        "Longitude_original" : 105.8817, 
+        "Longitude" : -105.8817, 
+        "Elevation_Feet" : -38002521600000, 
+        "Elevation_Meters" : 3281, 
+        "Established" : 1863, 
+        "Abandoned" : 1881, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Some residents remain.", 
+        "FID" : 101, 
+        "FID2" : 160
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 161, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.1441, 37.7857
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "San Juan City", 
+        "Other_names" : "San Juan", 
+        "Current_county" : "Mineral", 
+        "Lattitude" : 37.7857, 
+        "Longitude_original" : 107.1441, 
+        "Longitude" : -107.1441, 
+        "Elevation_Feet" : -61262524800000, 
+        "Elevation_Meters" : 2752, 
+        "Established" : 1874, 
+        "Abandoned" : 1923, 
+        "Community_Type_primary" : "stop", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "stage", 
+        "Industry_secondary" : null, 
+        "Status" : "One cabin remains.", 
+        "FID" : 103, 
+        "FID2" : 161
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 162, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.0259, 40.0242
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Serene", 
+        "Other_names" : null, 
+        "Current_county" : "Weld", 
+        "Lattitude" : 40.0242, 
+        "Longitude_original" : 105.0259, 
+        "Longitude" : -105.0259, 
+        "Elevation_Feet" : -56318716800000, 
+        "Elevation_Meters" : 1580, 
+        "Established" : 1923, 
+        "Abandoned" : 1942, 
+        "Community_Type_primary" : "company town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 158, 
+        "FID2" : 162
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 163, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.0086, 38.7817
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Seven Lakes", 
+        "Other_names" : null, 
+        "Current_county" : "Teller", 
+        "Lattitude" : 38.7817, 
+        "Longitude_original" : 105.0086, 
+        "Longitude" : -105.0086, 
+        "Elevation_Feet" : -31059936000000, 
+        "Elevation_Meters" : 3348, 
+        "Established" : 1877, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : "tourist", 
+        "Status" : "Mine structures remain.", 
+        "FID" : 159, 
+        "FID2" : 163
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 164, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.9758, 38.2514
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Siloam", 
+        "Other_names" : null, 
+        "Current_county" : "Pueblo", 
+        "Lattitude" : 38.2514, 
+        "Longitude_original" : 104.9758, 
+        "Longitude" : -104.9758, 
+        "Elevation_Feet" : -47956147200000, 
+        "Elevation_Meters" : 1661, 
+        "Established" : 1891, 
+        "Abandoned" : 1943, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 162, 
+        "FID2" : 164
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 165, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.6322, 39.7536
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Silver Creek", 
+        "Other_names" : "Daileyville", 
+        "Current_county" : "Clear Creek", 
+        "Lattitude" : 39.7536, 
+        "Longitude_original" : 105.6322, 
+        "Longitude" : -105.6322, 
+        "Elevation_Feet" : -58359312000000, 
+        "Elevation_Meters" : 2780, 
+        "Established" : 1875, 
+        "Abandoned" : null, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 163, 
+        "FID2" : 165
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 166, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.6961, 39.6917
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Silverdale", 
+        "Other_names" : null, 
+        "Current_county" : "Clear Creek", 
+        "Lattitude" : 39.6917, 
+        "Longitude_original" : 105.6961, 
+        "Longitude" : -105.6961, 
+        "Elevation_Feet" : -53468035200000, 
+        "Elevation_Meters" : 2827, 
+        "Established" : 1882, 
+        "Abandoned" : 1882, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 164, 
+        "FID2" : 166
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 167, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.7498, 37.9753
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Sneffels", 
+        "Other_names" : "Mount Sneffels", 
+        "Current_county" : "Ouray", 
+        "Lattitude" : 37.9753, 
+        "Longitude_original" : 107.7498, 
+        "Longitude" : -107.7498, 
+        "Elevation_Feet" : -42546729600000, 
+        "Elevation_Meters" : 3237, 
+        "Established" : 1879, 
+        "Abandoned" : 1930, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 167, 
+        "FID2" : 167
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 168, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.5644, 37.1347
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Sopris", 
+        "Other_names" : null, 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.1347, 
+        "Longitude_original" : 104.5644, 
+        "Longitude" : -104.5644, 
+        "Elevation_Feet" : -54769824000000, 
+        "Elevation_Meters" : 1900, 
+        "Established" : 1888, 
+        "Abandoned" : 1969, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Submerged in Trinidad Lake.", 
+        "FID" : 168, 
+        "FID2" : 168
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 169, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.9694, 39.6786
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "South Denver", 
+        "Other_names" : null, 
+        "Current_county" : "Denver", 
+        "Lattitude" : 39.6786, 
+        "Longitude_original" : 104.9694, 
+        "Longitude" : -104.9694, 
+        "Elevation_Feet" : -51301209600000, 
+        "Elevation_Meters" : 1629, 
+        "Established" : 1886, 
+        "Abandoned" : 1894, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "residential", 
+        "Industry_secondary" : null, 
+        "Status" : "Several Denver neighborhoods.", 
+        "FID" : 169, 
+        "FID2" : 169
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 170, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.9684, 37.7072
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Spar City", 
+        "Other_names" : "Spar", 
+        "Current_county" : "Mineral", 
+        "Lattitude" : 37.7072, 
+        "Longitude_original" : 106.9684, 
+        "Longitude" : -106.9684, 
+        "Elevation_Feet" : -47440598400000, 
+        "Elevation_Meters" : 2885, 
+        "Established" : 1892, 
+        "Abandoned" : 1895, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Summer cabins.", 
+        "FID" : 170, 
+        "FID2" : 170
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 171, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.0031, 39.7533
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "St. Charles", 
+        "Other_names" : null, 
+        "Current_county" : "Denver", 
+        "Lattitude" : 39.7533, 
+        "Longitude_original" : 105.0031, 
+        "Longitude" : -105.0031, 
+        "Elevation_Feet" : -56350252800000, 
+        "Elevation_Meters" : 1580, 
+        "Established" : 1858, 
+        "Abandoned" : 1858, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Site around Denver Union Station.", 
+        "FID" : 97, 
+        "FID2" : 171
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 172, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.1576, 40.5266
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Stout", 
+        "Other_names" : "Petra", 
+        "Current_county" : "Larimer", 
+        "Lattitude" : 40.5266, 
+        "Longitude_original" : 105.1576, 
+        "Longitude" : -105.1576, 
+        "Elevation_Feet" : -51427440000000, 
+        "Elevation_Meters" : 1628, 
+        "Established" : 1882, 
+        "Abandoned" : 1908, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : "quarry", 
+        "Industry_primary" : "sandstone", 
+        "Industry_secondary" : null, 
+        "Status" : "Submerged in Horsetooth Reservoir.", 
+        "FID" : 171, 
+        "FID2" : 172
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 173, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.5923, 37.4306
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Summitville", 
+        "Other_names" : "Summit", 
+        "Current_county" : "Rio Grande", 
+        "Lattitude" : 37.4306, 
+        "Longitude_original" : 106.5923, 
+        "Longitude" : -106.5923, 
+        "Elevation_Feet" : -53084073600000, 
+        "Elevation_Meters" : 3440, 
+        "Established" : 1876, 
+        "Abandoned" : 1947, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Many structures remain.", 
+        "FID" : 172, 
+        "FID2" : 173
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 174, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.4689, 40.0358
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Sunset", 
+        "Other_names" : null, 
+        "Current_county" : "Boulder", 
+        "Lattitude" : 40.0358, 
+        "Longitude_original" : 105.4689, 
+        "Longitude" : -105.4689, 
+        "Elevation_Feet" : -38704780800000, 
+        "Elevation_Meters" : 2360, 
+        "Established" : 1883, 
+        "Abandoned" : 1921, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 173, 
+        "FID2" : 174
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 175, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.8603, 38.3022
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Swallows", 
+        "Other_names" : null, 
+        "Current_county" : "Pueblo", 
+        "Lattitude" : 38.3022, 
+        "Longitude_original" : 104.8603, 
+        "Longitude" : -104.8603, 
+        "Elevation_Feet" : -34231420800000, 
+        "Elevation_Meters" : 1489, 
+        "Established" : 1892, 
+        "Abandoned" : 1947, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : null, 
+        "Status" : "Submerged in Pueblo Reservoir.", 
+        "FID" : 174, 
+        "FID2" : 175
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 176, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.8922, 39.5083
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Swandyke", 
+        "Other_names" : null, 
+        "Current_county" : "Summit", 
+        "Lattitude" : 39.5083, 
+        "Longitude_original" : 105.8922, 
+        "Longitude" : -105.8922, 
+        "Elevation_Feet" : -59742489600000, 
+        "Elevation_Meters" : 3376, 
+        "Established" : 1898, 
+        "Abandoned" : 1910, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 175, 
+        "FID2" : 176
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 177, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.4756, 39.1219
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Tarryall", 
+        "Other_names" : "Puma City", 
+        "Current_county" : "Park", 
+        "Lattitude" : 39.1219, 
+        "Longitude_original" : 105.4756, 
+        "Longitude" : -105.4756, 
+        "Elevation_Feet" : -39617251200000, 
+        "Elevation_Meters" : 2656, 
+        "Established" : 1896, 
+        "Abandoned" : 1933, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Some residents remain.", 
+        "FID" : 178, 
+        "FID2" : 177
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 178, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.0034, 40.4333
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Teller City", 
+        "Other_names" : null, 
+        "Current_county" : "Jackson", 
+        "Lattitude" : 40.4333, 
+        "Longitude_original" : 106.0034, 
+        "Longitude" : -106.0034, 
+        "Elevation_Feet" : -53057721600000, 
+        "Elevation_Meters" : 2831, 
+        "Established" : 1879, 
+        "Abandoned" : 1885, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Structures remain.", 
+        "FID" : 179, 
+        "FID2" : 178
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 179, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.9967, 37.052
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Tercio", 
+        "Other_names" : null, 
+        "Current_county" : "Las Animas", 
+        "Lattitude" : 37.052, 
+        "Longitude_original" : 104.9967, 
+        "Longitude" : -104.9967, 
+        "Elevation_Feet" : -38894083200000, 
+        "Elevation_Meters" : 2358, 
+        "Established" : 1902, 
+        "Abandoned" : 1949, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "coal", 
+        "Industry_secondary" : null, 
+        "Status" : "Some structures remain.", 
+        "FID" : 181, 
+        "FID2" : 179
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 180, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.7025, 39.3603
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Thomasville", 
+        "Other_names" : "Calcium", 
+        "Current_county" : "Pitkin", 
+        "Lattitude" : 39.3603, 
+        "Longitude_original" : 106.7025, 
+        "Longitude" : -106.7025, 
+        "Elevation_Feet" : -61549286400000, 
+        "Elevation_Meters" : 2444, 
+        "Established" : 1888, 
+        "Abandoned" : 1918, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "railroad", 
+        "Industry_secondary" : "lime kiln", 
+        "Status" : "Many structures remain.", 
+        "FID" : 182, 
+        "FID2" : 180
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 181, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.9621, 39.5228
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Tiger", 
+        "Other_names" : null, 
+        "Current_county" : "Summit", 
+        "Lattitude" : 39.5228, 
+        "Longitude_original" : 105.9621, 
+        "Longitude" : -105.9621, 
+        "Elevation_Feet" : -41034556800000, 
+        "Elevation_Meters" : 2947, 
+        "Established" : 1919, 
+        "Abandoned" : 1940, 
+        "Community_Type_primary" : "company town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 183, 
+        "FID2" : 181
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 182, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.4784, 38.7544
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Tincup", 
+        "Other_names" : "Virginia, Virginia City, Tin Cup", 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.7544, 
+        "Longitude_original" : 106.4784, 
+        "Longitude" : -106.4784, 
+        "Elevation_Feet" : -57157574400000, 
+        "Elevation_Meters" : 3096, 
+        "Established" : 1878, 
+        "Abandoned" : 1918, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Many structures and summer homes.", 
+        "FID" : 184, 
+        "FID2" : 182
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 183, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -104.9275, 37.6989
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Tioga", 
+        "Other_names" : null, 
+        "Current_county" : "Huerfano", 
+        "Lattitude" : 37.6989, 
+        "Longitude_original" : 104.9275, 
+        "Longitude" : -104.9275, 
+        "Elevation_Feet" : -44829331200000, 
+        "Elevation_Meters" : 1996, 
+        "Established" : 1907, 
+        "Abandoned" : 1954, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : null, 
+        "Status" : "Little remains.", 
+        "FID" : 187, 
+        "FID2" : 183
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 184, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.7545, 37.9367
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Tomboy", 
+        "Other_names" : "Savage Basin Camp", 
+        "Current_county" : "San Miguel", 
+        "Lattitude" : 37.9367, 
+        "Longitude_original" : 107.7545, 
+        "Longitude" : -107.7545, 
+        "Elevation_Feet" : -46046880000000, 
+        "Elevation_Meters" : 3508, 
+        "Established" : 1894, 
+        "Abandoned" : 1926, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : "mine", 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : "zinc", 
+        "Status" : "Some structures remain.", 
+        "FID" : 188, 
+        "FID2" : 184
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 185, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.7883, 38.8492
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Trump", 
+        "Other_names" : null, 
+        "Current_county" : "Park", 
+        "Lattitude" : 38.8492, 
+        "Longitude_original" : 105.7883, 
+        "Longitude" : -105.7883, 
+        "Elevation_Feet" : -48387283200000, 
+        "Elevation_Meters" : 2876, 
+        "Established" : 1928, 
+        "Abandoned" : 1931, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 190, 
+        "FID2" : 185
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 186, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.4761, 39.9719
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Tungsten", 
+        "Other_names" : null, 
+        "Current_county" : "Boulder", 
+        "Lattitude" : 39.9719, 
+        "Longitude_original" : 105.4761, 
+        "Longitude" : -105.4761, 
+        "Elevation_Feet" : null, 
+        "Elevation_Meters" : 2436, 
+        "Established" : 1916, 
+        "Abandoned" : 1949, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "tungsten", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 191, 
+        "FID2" : 186
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 187, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.9889, 38.6403
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Turret", 
+        "Other_names" : null, 
+        "Current_county" : "Chaffee", 
+        "Lattitude" : 38.6403, 
+        "Longitude_original" : 105.9889, 
+        "Longitude" : -105.9889, 
+        "Elevation_Feet" : -45202752000000, 
+        "Elevation_Meters" : 2602, 
+        "Established" : 1898, 
+        "Abandoned" : 1939, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : "quarry", 
+        "Industry_primary" : "granite", 
+        "Industry_secondary" : null, 
+        "Status" : "Privately held.", 
+        "FID" : 192, 
+        "FID2" : 187
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 188, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -102.5109, 39.4974
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Tuttle", 
+        "Other_names" : null, 
+        "Current_county" : "Kit Carson", 
+        "Lattitude" : 39.4974, 
+        "Longitude_original" : 102.5109, 
+        "Longitude" : -102.5109, 
+        "Elevation_Feet" : -61433596800000, 
+        "Elevation_Meters" : 1226, 
+        "Established" : 1883, 
+        "Abandoned" : 1918, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "farming", 
+        "Industry_secondary" : null, 
+        "Status" : "Foundations remain.", 
+        "FID" : 193, 
+        "FID2" : 188
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 189, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.5019, 38.1501
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Ula", 
+        "Other_names" : null, 
+        "Current_county" : "Custer", 
+        "Lattitude" : 38.1501, 
+        "Longitude_original" : 105.5019, 
+        "Longitude" : -105.5019, 
+        "Elevation_Feet" : -36842860800000, 
+        "Elevation_Meters" : 2378, 
+        "Established" : 1871, 
+        "Abandoned" : 1891, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "ranching", 
+        "Industry_secondary" : null, 
+        "Status" : "Cemetery remains.", 
+        "FID" : 194, 
+        "FID2" : 189
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 190, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -108.7365, 38.3683
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Uravan", 
+        "Other_names" : null, 
+        "Current_county" : "Montrose", 
+        "Lattitude" : 38.3683, 
+        "Longitude_original" : 108.7365, 
+        "Longitude" : -108.7365, 
+        "Elevation_Feet" : null, 
+        "Elevation_Meters" : 1521, 
+        "Established" : 1936, 
+        "Abandoned" : 1986, 
+        "Community_Type_primary" : "company town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "uranium", 
+        "Industry_secondary" : null, 
+        "Status" : null, 
+        "FID" : 195, 
+        "FID2" : 190
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 191, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.3778, 38.9992
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Vicksburgh", 
+        "Other_names" : "Vicksburg", 
+        "Current_county" : "Chaffee", 
+        "Lattitude" : 38.9992, 
+        "Longitude_original" : 106.3778, 
+        "Longitude" : -106.3778, 
+        "Elevation_Feet" : -40939862400000, 
+        "Elevation_Meters" : 2948, 
+        "Established" : 1881, 
+        "Abandoned" : 1885, 
+        "Community_Type_primary" : "camp", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "mining", 
+        "Industry_secondary" : null, 
+        "Status" : "National Register Historic District.", 
+        "FID" : 196, 
+        "FID2" : 191
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 192, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.3492, 40.9547
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Virginia Dale", 
+        "Other_names" : null, 
+        "Current_county" : "Larimer", 
+        "Lattitude" : 40.9547, 
+        "Longitude_original" : 105.3492, 
+        "Longitude" : -105.3492, 
+        "Elevation_Feet" : -61078579200000, 
+        "Elevation_Meters" : 2144, 
+        "Established" : 1862, 
+        "Abandoned" : 1967, 
+        "Community_Type_primary" : "stop", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "stage", 
+        "Industry_secondary" : null, 
+        "Status" : "Stage station preserved.", 
+        "FID" : 197, 
+        "FID2" : 192
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 193, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -107.0014, 38.3455
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Vulcan", 
+        "Other_names" : null, 
+        "Current_county" : "Gunnison", 
+        "Lattitude" : 38.3455, 
+        "Longitude_original" : 107.0014, 
+        "Longitude" : -107.0014, 
+        "Elevation_Feet" : -32990198400000, 
+        "Elevation_Meters" : 2720, 
+        "Established" : 1894, 
+        "Abandoned" : 1912, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "gold", 
+        "Industry_secondary" : null, 
+        "Status" : "Several structures remains.", 
+        "FID" : 199, 
+        "FID2" : 193
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 194, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.8931, 37.8242
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Wason", 
+        "Other_names" : null, 
+        "Current_county" : "Mineral", 
+        "Lattitude" : 37.8242, 
+        "Longitude_original" : 106.8931, 
+        "Longitude" : -106.8931, 
+        "Elevation_Feet" : -43687987200000, 
+        "Elevation_Meters" : 2617, 
+        "Established" : 1891, 
+        "Abandoned" : 1904, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Located on Wason Ranch.", 
+        "FID" : 201, 
+        "FID2" : 194
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 195, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.9312, 37.8839
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Weaver", 
+        "Other_names" : null, 
+        "Current_county" : "Mineral", 
+        "Lattitude" : 37.8839, 
+        "Longitude_original" : 106.9312, 
+        "Longitude" : -106.9312, 
+        "Elevation_Feet" : -34912512000000, 
+        "Elevation_Meters" : 3006, 
+        "Established" : 1891, 
+        "Abandoned" : 1895, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Few structures remain.", 
+        "FID" : 202, 
+        "FID2" : 195
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 196, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -105.7203, 39.4575
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Webster", 
+        "Other_names" : null, 
+        "Current_county" : "Park", 
+        "Lattitude" : 39.4575, 
+        "Longitude_original" : 105.7203, 
+        "Longitude" : -105.7203, 
+        "Elevation_Feet" : -60820761600000, 
+        "Elevation_Meters" : 2756, 
+        "Established" : 1877, 
+        "Abandoned" : 1909, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : "shipping", 
+        "Industry_primary" : "ore", 
+        "Industry_secondary" : "shipping", 
+        "Status" : "Little remains.", 
+        "FID" : 203, 
+        "FID2" : 196
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 197, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -106.4409, 38.9847
+        ]
+      }, 
+      "properties" : {
+        "Ghost_town" : "Winfield", 
+        "Other_names" : null, 
+        "Current_county" : "Chaffee", 
+        "Lattitude" : 38.9847, 
+        "Longitude_original" : 106.4409, 
+        "Longitude" : -106.4409, 
+        "Elevation_Feet" : -54475286400000, 
+        "Elevation_Meters" : 3122, 
+        "Established" : 1861, 
+        "Abandoned" : 1912, 
+        "Community_Type_primary" : "town", 
+        "Community_Type_secondary" : null, 
+        "Industry_primary" : "silver", 
+        "Industry_secondary" : null, 
+        "Status" : "Several structures remain.", 
+        "FID" : 204, 
+        "FID2" : 197
+      }
+    }
+  ]
+}

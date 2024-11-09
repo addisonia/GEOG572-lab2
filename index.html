@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mapping Colorado's Ghost Towns</title>
+    <link rel="stylesheet" href="lib/scrollmap.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/5.0.0-beta1/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Creepster&family=IM+Fell+English&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        body {
+            font-family: 'IM Fell English', serif;
+            text-align: center;
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+        }
+
+        h1, h2 {
+            font-family: 'Creepster', cursive;
+            color: #c41e3a;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            margin: 2rem 0;
+        }
+
+        .content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .map-container {
+            width: 90%;
+            margin: 2rem auto;
+            background-color: #2a2a2a;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .map-container iframe {
+            width: 100%;
+            border: none;
+            min-height: 600px;
+            border-radius: 4px;
+        }
+
+        .story-section {
+            margin: 4rem auto;
+            padding: 2rem;
+            background-color: rgba(42, 42, 42, 0.8);
+            border-radius: 8px;
+            max-width: 800px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .map-theme-explained {
+            margin: 4rem auto;
+            padding: 2rem;
+            background-color: rgba(42, 42, 42, 0.8);
+            border-radius: 8px;
+            max-width: 800px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .quote {
+            font-style: italic;
+            font-size: 1.2rem;
+            color: #c41e3a;
+            margin: 2rem 0;
+        }
+
+        .custom-image-container {
+            width: 75%;
+            margin: 2rem auto;
+        }
+
+        .custom-image-container img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            border-radius: 4px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .background-transparent {
+            background-color: rgba(26, 26, 26, 0.9);
+            padding: 1rem;
+            margin: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <!-- Title Section -->
+        <div class="row">
+            <div class="center title">
+                <h1>Mapping Colorado's Ghost Towns</h1>
+                <p class="author">By Addison Atkin</p>
+            </div>
+        </div>
+
+        <!-- Introduction Section -->
+        <div class="story-section">
+            <h3>Abandonment Of An Era</h3>
+            <p>Deep in the heart of Colorado's rugged mountains lie the still and lifeless remains of once-booming mining communities. These ghost towns represent time capsules into a different time and way of life (not necessarily always good though...). While at one point they were regions of prosperity, they have since been abandoned and now serve as haunting reminders of the American West's golden age.</p>
+            <p class="quote">"The city can be the loneliest place of all" - Steven Wilson</p>
+        </div>
+
+        <!-- Map Embedding Section -->
+        <div class="row">
+            <div class="map-container">
+                <h3>Mapping A Dying World</h3>
+                <p>Explore these forgotten settlements through this interactive map below:</p>
+                <iframe src="https://api.mapbox.com/styles/v1/addisonia/cm33sqkmd00w701qkhmvq39m4.html?title=false&access_token=pk.eyJ1IjoiYWRkaXNvbmlhIiwiYSI6ImNtMzNyODFtZDA4aDEycXB4azhkcG04eWkifQ.ClLOgRIzCPnpCJfMAl3gbA&cooperativeGestures=true&scrollZoom=true&dragRotate=false#6.4/38.785/-105.164" title="My Mapbox Map"></iframe>
+            </div>
+        </div>
+
+        <!-- Visual Journey Section -->
+        <div class="story-section">
+            <h2>From One Ghost Story To Another</h2>
+            <p>The art style and theme was largely inspired by theme from the album "The Raven That Refused To Sing (And Other Stories)", by Steven Wilson. The music from this album relates to themes of loss, abandonment, and supernatural occurences (including ghosts).</p>
+        </div>
+
+        <div class="story-section">
+            <div class="custom-image-container">
+                <img src="images/steven-wilson-the-raven-that-refused-to-sing-and-other-stories-tn.jpg" alt="Album Cover">
+            </div>
+        </div>
+
+        <div class="map-theme-explained">
+            <p>Much of this feeling can be seen and heard through the album as well. I picked the colors used in the music video "The Raven That Refused To Sing" specifically for this map to build the same atmoshphere. Here's a frame from that video for reference. I highly recommend anyone to listen to this song as it's very moving.</p>
+            <div class="custom-image-container">
+                <img src="images/raevn.jpg" alt="Music Video Frame">
+            </div>
+        </div>
+
+        <div class="map-theme-explained">
+            <p>The color palate is a very hollow and cold feel, with a general sense of eeriness and unease. The font is a more spooky choice, and the lines marked on the map for roads and borders appear frail. While hard to notice, there is a subtle warm glow over everything which adds a slight tint of liveliness for an overall dead atmosphere. A more zoomed in view shown here showcases this.</p>
+            <div class="custom-image-container">
+                <img src="images/zoomed in view 2.PNG" alt="Detailed View 2">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="center">
+                
+                <div class="story-section">
+                    <div class="custom-image-container">
+                        <img src="images/zoomed out view.PNG" alt="Regional View">
+                    </div>
+                    <p>Here we see a bird's eye view of Colorado's ghost town network, which looks a lot more crowded than one might expect. I was definitevly suprised to see so many locations mapped out, especially in areas that I wouldn't expect to see them (like in the great plains for example).</p>
+                </div>
+
+                <div class="story-section">
+                    <div class="custom-image-container">
+                        <img src="images/zoomed out view 2.PNG" alt="Regional View">
+                    </div>
+                    <p>I tried to go for a style in which the general cities could almost blend with the ghost towns together. Looking closer towards Denver we start to see more features appear and the separation in a way of the abandoned areas in the mountains with the city (with a few exceptions to some locations near the city center).</p>
+                </div>
+
+                <div class="story-section">
+                    <div class="custom-image-container">
+                        <img src="images/zoomed more in view 2.PNG" alt="Close-up View">
+                    </div>
+                    <p>At the closest view, the thin roads really start to look like veins in a human body, but lacking life. I've made the roads a slight brown tint at this level add to this effect.</p>
+                </div>
+
+                <div class="story-section">
+                    <div class="custom-image-container">
+                        <img src="images/lonelyplanet.PNG" alt="Lonely Planet">
+                    </div>
+                    <h3>A World Left Behind</h3>
+                    <p>I love the fully zoomed out view from the map since it truly shows the loneliness at scale. At the end of the day, our planet is a rare dot of life in a ghosttown of stars.</p>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Conclusion Section -->
+        <div class="story-section">
+            <p>Thank you for reading through and exploring my map. I hope that this was an interesting and enjoyable experience, as it was fun for me to bring this story to life.</p>
+        </div>
+    </div>
+
+    <script src="lib/scrollmap.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/5.0.0-beta1/js/bootstrap.bundle.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
